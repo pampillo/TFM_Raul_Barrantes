@@ -1,0 +1,3189 @@
+<INDIVIDUAL>
+<ID>subject7383</ID>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-09 23:36:50 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Thanks! It seems to be hit or miss.  
+Sorting hat quizzes always put me between Ravenclaw and Gryffindor, given that I made this with math I think Ravenclaw would be best. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-09 18:00:03 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah, each image is a separate book, each block is a chapter, and each vertical line of pixels represents a sentence. Lighter colored pixels correspond to words with more characters. It's probably easier to understand with smaller files like the examples in my github link. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-09 17:55:49 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Unfortunately in the presented format labels and axes don't work well since each chapter is made separately and stacked upon each other; however it'd be pretty easy if running just one file through to get some actual info out of it. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-09 17:41:03 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I wrote [a Python program](https://github.com/subject7383/Novel-heatmap) to create heatmaps from text and made collages from the result of running each book in the series through it. 
+Each image is a separate book, each block is a chapter, and each vertical line of pixels represents a sentence. Lighter pixels correspond to words with more characters.  
+The process of making the images is explained more thoroughly in my github link. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> I Made Heatmap Art from Each Chapter of Each Book in the Series </TITLE>
+<DATE> 2017-05-09 17:37:40 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-09 17:37:10 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I thought the readme explained it pretty well but I'm not the target audience for it. I updated it with a little more verbose explanation, is it clearer what's going on now?
+
+I have it set up to be more aesthetic than present meaningful data, since I don't find these data to have much meaning beyond aesthetics and sentimental value of the origin. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> I Made Heatmap Art of the Text from Each Chapter of Each Book from Harry Potter and The Lord of the Rings (and you can do any book too!) </TITLE>
+<DATE> 2017-05-09 17:05:59 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I wrote [a Python program](https://github.com/subject7383/Novel-heatmap) to create heatmaps from text and made collages from the result of running [the Harry Potter series](http://imgur.com/a/OImLF) and [The Lord of the Rings series](http://imgur.com/a/SpwbP) through it.  
+Lighter (or in the case of The Hobbit, darker) pixels correspond to words with more characters. The process of making the images is explained more thoroughly in my github link.   </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-09 14:20:47 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> These images were made using [a Python program I wrote](https://github.com/subject7383/Novel-heatmap) to create heatmaps from text using numpy to create a matrix of the sentences for each chapter of each book, and matplotlib to plot them; lighter (or in the case of The Hobbit, darker) pixels correspond to words with more characters. The process is explained more thoroughly in my github link.  
+Source for the data presented in each image is the book it represents. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Heatmaps of Each Book in The Lord of the Rings series [OC] </TITLE>
+<DATE> 2017-05-09 14:18:43 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-08 18:35:41 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Actually I was considering combining it with another project that [makes kindle notes easier to go through](https://chemikyle.github.io/authorNotes/) so I could see a map of my favorite quotes, maybe I'll launch a site for it at some point. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-08 17:58:36 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I wrote a [program that makes an image from text](https://github.com/subject7383/Novel-heatmap) and ran [a blurb from the MoMA about van Gogh](https://www.moma.org/learn/moma_learning/vincent-van-gogh-the-starry-night-1889) through it. This is the result, I thought it looked similar to the left side of *The Starry Night* and that others might enjoy it knowing it came from text about and from van Gogh, despite it perhaps not being all too aesthetically impressive as an image without context.
+
+It may be fun to go through his [letters](http://vangoghletters.org/vg/) to see if anything might make the whole image. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Letters from Saint-Paul, Digital, 261x369px </TITLE>
+<DATE> 2017-05-08 17:51:30 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> I Wrote a Program to Make Skylines from Books </TITLE>
+<DATE> 2017-05-07 19:38:05 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I made a small program that converts the text of a book into a heatmap that I think looks like a dense city skyline; [here's Chiba city made from the first chapter of *Neuromancer*, complete with static sky.](http://imgur.com/a/J1SgW)
+
+It works by making a vector of word lengths for each sentence and putting them in a matrix to be plotted. [I put the project up on github if anyone would like to play with it.](https://github.com/subject7383/Novel-heatmap) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-07 19:22:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> As the title says, this picture is made from the first chapter of Gibson's *Neuromancer*, literally. The pixels in the image are made from the words using a [program I wrote.](https://github.com/subject7383/Novel-heatmap)  I think it looks like the Chiba city skyline (sans lights).
+
+I made a matrix of the words in the first chapter and plotted it as a heatmap using matplotlib (color scheme is inverted binary). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> I Made This Picture from the First Chapter of Neuromancer </TITLE>
+<DATE> 2017-05-07 19:19:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-04 05:55:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> He was a pretty big piece of shit.
+
+To quote Orwell: [The two qualities that Dali unquestionably possesses are a gift for drawing and an atrocious egoism.](http://www.orwell.ru/library/reviews/dali/english/e_dali) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-05-02 14:49:26 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> *Permutation City* by Greg Egan has a really cool exploration of this and the existential discomfort for the simulated person. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-04-21 20:44:03 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> What don't you like about it? I thoroughly enjoyed it, but wasn't assigned to read it. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-04-18 05:30:04 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Surprised nobody mentioned [UHelsinki's MOOC](http://mooc.fi/courses/2013/programming-part-1/) (Linus Torvalds went there), it's a bit overly easy for the first handful of weeks since you know Python, but it never feels like it's holding your hand too much after.  
+It's got assignment submission and grading built into it, and it's completely free! It's automated so you can work at your own pace, I got to week 4 in about a week. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-04-12 19:58:21 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Outside of the ever popular William Gibson and PKD suggestions you're likely already familiar with, Greg Egan is fairly good at this sort of thing.  
+It's pretty hard scifi, but *Quarantine* may be to your liking, as would a few selections from his short stories.
+
+The short story collections *Luminous* and *Axiomatic* would be a pretty good intro. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-04-11 18:16:27 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> The short story *City of Silence* by Ma Boyong explores this in a pretty interesting way. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-04-09 02:41:18 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm not sure if things have changed, but a quick google search [shows you may be limited to 30s clips](http://stackoverflow.com/questions/32309322/how-can-i-play-a-spotify-audio-with-python) through most APIs. Off the top of my head you may be able to workaround this if you learn to use Selenium, but you'll probably wanna get a bit more python under your belt before trying to use an API.
+
+If you're interested in foregoing using Spotify for your own locally stored music I made a small program for [something similar a few months back;](https://github.com/subject7383/jazzyWeather) you could just gut out the weather functionality and then the most difficult thing would be tailoring it to your own OS (assuming you aren't on Linux), probably a decent learning opportunity that kinda gets something you want. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-04-06 02:14:23 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Here's another song by the same group,](https://www.youtube.com/watch?v=55XfGNP_gew) this one is a jazz fusion with the extremely talented Hiromi Uehara. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-04-05 18:25:54 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Youtube recommended this to me just yesterday, really cool stuff.
+
+Come to think of it, I often see things on this sub shortly after I get them rec'd by youtube, so I suspect this may be a cascade from when the Ryo Fukui album *Scenery* hit the front page. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-03-28 05:13:51 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> On the off chance anyone is reading this and feels like they're suffering through OChem and prefers to learn from books rather than videos I *highly* recommend anything by Dr. David Klein; he put out a couple [supplementary books] (https://smile.amazon.com/Organic-Chemistry-As-Second-Language/dp/111801040X) as well as a [full length one](https://smile.amazon.com/Organic-Chemistry-David-R-Klein/dp/0471756148/ref=sr_1_2?s=books ie=UTF8 qid=1490670793 sr=1-2 keywords=klein+organic).
+
+Don't try to memorize, it's more like art than other early science classes, brute force tactics that may have worked in gen chem are the hard way!
+
+
+
+Also re: linear algebra, [MIT's OCW for that topic](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) taught me far more than my course did. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-03-24 15:00:07 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> http://imgur.com/8tZkFZQ </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-03-06 13:56:54 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Lousy wasn't the worst of it, some of them are given to the board *blank* and board members still rated them! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-28 17:59:55 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Manual
+
+Cool, I won't have to remember which pole is currently dark when I want to run a [filter during the day.](https://forum.justgetflux.com/topic/2021/xflux-linux-how-do-i-keep-flux-on-all-the-time) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-25 21:34:18 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Having a second monitor is hugely helpful for reading documentation while you program. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-25 00:00:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You may want to look into [smtplib](https://docs.python.org/3/library/smtplib.html) which will let you automate the emailing process instead of using pyperclip and having to write an email yourself; then you can set it up on a cron job to run daily and not have to remember to do anything. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-21 06:46:35 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Ah it should be fixed now.
+
+I did a little bit of editing to the menu buttons to make them more presentable as a hanging bookmark. Is it better now? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-21 00:03:25 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm aiming to keep the book aesthetic, but I think I can work the buttons into something that looks like a bookmark and the app title as a chapter heading.
+
+I have containers for the text that are supposed to be responsive but I must have missed something in my testing, what browser and resolution are you running? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-20 15:53:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Is there anything specific that you'd do differently?  
+As of now my only plan is to turn the drop down list into something that resembles a book's table of contents. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> [Feedback] I Just Made my First Web App </TITLE>
+<DATE> 2017-02-20 01:42:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Hi everyone,
+
+I was wondering if I could get some feedback on a project I made to help teach myself web development. I've never made a website to do anything but display data already on a server before, so this was my first real interactive project. It only uses JavaScript and jQuery for now.
+
+[It's a site to make clippings from a kindle easier to read](https://chemikyle.github.io/authorNotes/). I put up some test data there for use without having to upload your own clippings file.
+
+If anyone has any feedback, or ideas for other features to implement (especially if they'll help me learn new frameworks) I'd be glad to hear them. As of now my only plan is to set up a user account system and parse the JSON file created from input into a SQL database.
+
+I posted it to r/books, but it's already getting downvotes so I don't expect it'll get enough attention to get any feedback there.
+
+Thank you! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> I Made a Website to Make Reviewing Kindle Clippings Easier </TITLE>
+<DATE> 2017-02-20 01:28:17 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I make quite a few highlights while reading in ebooks, but I've found it kind of annoying to sift through the big text document when I'm trying to remember parts of a book. [I've been learning web development and decided to make a website so others could more easily look over their notes.](https://chemikyle.github.io/authorNotes/)  
+Upload your `My Clippings` file (located in `Kindle\documents\My Clippings.txt`) and it'll parse it out into a much easier to read format, and let you select which author you want to review your notes on. I stitched together some random selections from my clippings file and put them on the site for a demo, just hit the 'Process file' button and it'll autopopulate with my test data.
+
+It's version 1.0 so please let me know if you have any issues or ideas for new features!
+
+I also have the suite of scripts I used to use before making the site available in my [GitHub](https://github.com/subject7383/authorNotes) if anyone would like to use them (combination of python and shell). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-17 15:55:11 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Hah, you may be joking but I did actually use `grep -A3 authorname  authorName.txt` before now! My files only run up to a few hundred KB.
+
+I did exactly what you're suggesting a couple hours after I posted this; great minds think alike, eh?
+
+I don't even need the regex anymore since I can just split by the open paren before the author's name, which should make translating it to JavaScript easier. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-17 01:47:34 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> The big end goal is to have that with user accounts, but since this is my first webapp that processes user files I want to store the data as a temporary JSON file for easy display and no data retention.
+
+Also I have to be able to get the quote itself before I can move on with anything else. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Trying to Recreate Grep-like Functionality in Python </TITLE>
+<DATE> 2017-02-17 00:36:43 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> TOPEDIT: Nevermind, I got it to work myself! (Did not recreate grep's -A/B/C flags in the process though)
+
+Hi everyone,
+
+The short of it:  
+I've got sort of a difficult wall I've hit here. Basically I'm trying to scrape the sections I highlight in my kindle and store them in a dict with the keys being: `author_name`, `book_name`, and `the_quote`. I've got adding the author name and the book title down (sort of), but I need to find a way to recreate grep's ability to get the lines after a keyword is found.
+
+I typically [do something like this with a combination of python and shell scripting](https://github.com/subject7383/authorNotes/tree/master/processing_scripts), but I'm trying to turn this collection of scripts into a webapp for learning purposes so I'd like it to be one neat Python file to run in a flask instance or translate it to javascript if need be. The end goal is to dump the final dictionary result into a JSON file for web display purposes, all of which I should be able to learn myself.
+
+The kindle saves a users highlights in a file which is fairly easily parsed:
+
+    Book Title (Author Name)
+    - Your Highlight on page n | Location n-m | Added on Day, Month Date, Year H:MM: SS AM/PM
+    
+    Quote here in single line
+    ==========
+    Book Title (Author Name)
+    - Your Highlight on page n | Location n-m | Added on Day, Month Date, Year H:MM: SS AM/PM
+    
+    Quote here in single line
+    ==========
+    Book Title (Author Name)
+    - Your Highlight on page n | Location n-m | Added on Day, Month Date, Year H:MM: SS AM/PM
+    
+    Quote here in single line
+    ==========
+
+[I've uploaded a few snippets of a file here, with a decent smattering of authors and books.](http://pastebin.com/nbFhi9XK)  
+Luckily the quote is always a single line no matter how it was formatted in the book.
+
+My Code:
+
+    import re
+    
+    author_regex = re.compile(r'''(
+    	\( 					# Open paren
+    	([A-Z]\.?\s?)*?		# Allow for first name as all initials, e.g.: F. Scott Fitzgerald, J. K. Rowling, W.E.B. Du Bois
+    	([A-Z]				# First letter must be capitalized, apologies to e e cummings,
+    						# prevents sentences in parentheses being picked up
+    	(\w+\s?))*?			# Rest of the name
+    	([A-Z]\.?\s?)*?		# Allow for middle initials if present, e.g.: Philip K. Dick, George R. R. Martin
+    	([A-Z]				# Pick up names after middle initial, allowing addl spaces e.g.: Ursala K. Le Guin
+    	(\w+\s?))*?
+    	\)					# Close paren
+    	)''', re.VERBOSE)
+    
+    list_of_authors = []
+    
+    # Populate list with authors found via regex
+    with open('Sample_My_Clippings.txt', 'r') as f:
+    	f = f.read()
+    	for i in author_regex.findall(f):
+    		i = i[0]
+    		clean_name = str(i).replace('(' , '').replace(')', '') # Get rid of the parentheses to store author name properly
+    		if clean_name not in list_of_authors:
+    			list_of_authors.append(clean_name)
+    
+    big_dict = {}
+    auth_and_book_list = []
+    
+    for author in list_of_authors:
+    	quote_num = 0
+    	big_dict[str(author)] = {}
+    	with open(notes_filename, 'r+') as f:
+    		for line in f:
+    			if str(author) in line:
+    				big_dict[str(author)]['quote_num' + str(quote_num)] = {}
+    				book_name = line.split('(')[0].strip()
+    				if (author, book_name) not in auth_and_book_list: #Store author and book name as a tuple, in case I need this for the dict
+    					auth_and_book_list.append((author, book_name))
+    				big_dict[str(author)]['quote_num' + str(quote_num)].update({
+    				'author_name': author,
+    				'book_name': book_name,
+    				'quote': 'coming soon'
+    				})
+    				quote_num += 1
+
+
+This works great for grabbing the author's name and the name of the book (though it overwrites the dictionary entry each time, I'm not so hot at working with dictionaries yet), but I need something like the result of `grep -A 3 author_name` and snatching the last line, perhaps by splitting by `\n` and grabbing the final value. I have a vague idea of using enumerate for this, and increasing the index of a line with a hit by 3 to grab data, but I'm not entirely sure what to do.
+
+Thanks for any help you can offer or link!
+
+E: Got some leeway with the dicts by nesting, code has been updated with better formatting for the dictionary output.  
+E2: Going to try splitting by the equals signs and scraping the 0th index for info while using the last index to store the quote  
+E3: Above method got it working! Will update my GitHub with code for anyone who comes across this seeking to do the same thing. Unfortunately I didn't manage to recreate grep's -A/-B/-C flags though, so if that was your goal the search continues. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-16 17:04:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Nice setup!
+
+How do you like programming on an ultrawide compared to multiple monitors? Does it play nice with window placement shortcuts? (Not sure what's used with KDE, I use GNOME + Put windows) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-09 19:02:34 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah, I realized that after the excitement of being able to help somebody wore off...   
+At least now I know I could do ok in a python101 course. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-09 17:32:36 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I edited my comment with what I'm pretty sure the actual reason is. Calling an index of an empty list throws an error, breaking the function. So that's why it's using an `and` rather than an `or`.
+
+Your English is perfectly understandable, no need to apologize! Regarding spaces, you'll wanna place it on a new line for it to format properly (if you use RES you can view my formatting directly by using the 'source' option).  
+ex:
+
+    def merge(A,B):
+        if A !=[] and B !=[]:
+ </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-09 17:23:19 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> As far as I can tell, you use `and` because merging an empty list with a populated one would effectively do nothing, so you make sure that neither list is empty first so the function has an actual effect.
+
+E: Calling any index of an empty list throws an error, that's likely the reason.
+
+Also, you can place 4 spaces before code for better formatting. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-09 17:19:14 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> The code you wrote would only print the string `1`, you should call the number as a string and use the same number as a multiplier for the print statement.  
+Try something like this:
+
+    for i in range(1,10):
+        print(str(i)*i) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-06 04:44:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm also on mobile and unable to give an in depth answer, but I used the alsa module for an alarm clock project of my own. Maybe that will work for Bluetooth integration. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-03 19:51:01 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Great, just confirmed it works on your real data; I'm an amateur so I had to re-write it from how you were doing it, but it gets the job done!
+
+    import csv, math
+    
+    # Create an empty list
+    grade_list = []
+    
+    # Dump the data into a list
+    with open('grades.csv', 'r') as grades:
+    	r = csv.reader(grades)
+    	for line in r:
+    		if r.line_num  1: # Skip the header
+    			grade_list.append(line)
+    
+    with open('examScores.csv', 'w') as f:
+    	f.write('Last Name, First Name, Exam Average' + '\n')
+    	for i in grade_list:
+    		last_name, first_name = str(i[0]), str(i[1]) # Define the names of the students
+    		average =  math.ceil((int(i[2]) + int(i[3]))/2) # Find the average of the 2 exam scores
+    		f.write(last_name + ',' + first_name + ',' + str(average)) # Write data in csv format
+    		f.write('\n') </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-03 19:20:53 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Ok, I'll try to whip something up; I've done similar projects. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-02-03 19:15:46 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Could you provide sample data please?
+
+Just to clarify, you want an entirely new file with this format:
+
+
+
+last_name | first_name | average
+---|---|----
+Noether | Emmy | 95
+Dick | Philip | 85
+Curie | Marie | 90
+
+From a file formatted like this:  
+
+
+last_name | first_name | midterm | final
+---|---|----|----
+Noether | Emmy | 90 | 100
+Dick | Philip | 70 | 100
+Curie | Marie | 85 | 95
+
+Right? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-29 23:38:19 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Oh what he's referring to is a [very real and interesting phenomenon,](https://www.nsf.gov/news/news_summ.jsp?cntn_id=132798) I'm just questioning the method of how he's saying it works (just like you are).  
+As far as I remember from thermo, impurities in water lower freezing points because it disrupts ice lattices and keeps their formation from being entropically favorable (and raise boiling points by giving the liquids something to adhere to). I'm rusty though.
+
+Also I think you meant supercooled there. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-29 21:56:41 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Not so sure that a nucleation crystal can induce crystallization if the impure sample's freezing point is below the temperature of the ice. It's not just a supercooled solution at that point, that wouldn't be effective.  
+E.g. I don't think salt water freezes if you introduce pure water ice shavings.
+
+I'd be pretty excited to be proven wrong though! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-29 00:54:14 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [This is raw output data (csv).](https://drive.google.com/file/d/0BynK9_6EJmsBUE03MU4zTkYwOUk/view?usp=drivesdk)
+
+[This is how it is after my workup process (xlsx, but I intend for the program to output csv).](https://drive.google.com/file/d/0BynK9_6EJmsBV2RjS3VZbHNQb2s/view?usp=drivesdk)
+
+The project is partially to help myself learn data wrangling with python, but mostly to ease the workload for grad students where I did my undergrad. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-29 00:51:09 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Ok!  
+The data is from a cyclic voltammetry experiment. Basically varying the voltage (Y vals) and measuring the current (X vals) flowing through a solution. An example would be starting at 0 volts, sweeping up to 1 volt, then down to -1 volt, and returning to 0. That would be a "run," I isolate them since a molecule may break down and I'd see less of a response on subsequent runs, hence why I they're separated.
+
+The software used to collect data outputs a .csv file, and while I could probably wrangle the data some other way, I'm writing this program for colleagues who also had to spend time working up the data to a usable format but are used to just using something simple like Excel. (Hence why I made the work flow video)
+
+I'll make a top level comment linking sample data in the original format and update tomorrow with examples of how the data is presented. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-29 00:37:43 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Thank you!  
+I'll play with this when I get back home today.
+
+I can see if I have some data in my drive account to upload. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-28 21:07:47 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Just to clarify in case it wasn't obvious, this will work from any directory, not just ones that are subdirectories of your current location, as long as you define the full path.
+
+For example:  
+You're in /home/john/Documents/stuff_to_format, but you have a script in /home/john/python/format_scripts that you want to run, typing the following line will still work
+
+    python /home/john/python/format_scripts/name_of_file.py </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-28 20:57:09 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Do you mean how it looks in the text editor or the output?
+
+For the former, depending on your environment when you it will automatically wrap to a new line. Emacs, Vim, and Sublime do this by default.
+
+For the latter, I'd recommend adding a newline `\n` occasionally if your environment doesn't do text wrapping for the output. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Splitting a .csv File Into Segments Based on Y-Value </TITLE>
+<DATE> 2017-01-28 20:43:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Hi everyone,
+
+I'm not sure if this belongs here, but I'm basically looking to automate [this process.](https://youtu.be/rU0EtnfCsc8?t=34s) I already got the header and third column deletion automated fairly easily, but now I'm stuck on how to go about partitioning out the rest of the data into segments as shown in the video.  
+I'm thinking using something along the lines of [this question](http://stackoverflow.com/questions/4956984/how-do-you-split-a-csv-file-into-evenly-sized-chunks-in-python), but I don't know how to go about having it automatically find that initial Y value and use that for the number of lines to cut and paste.  
+Perhaps [in the last for loop](https://github.com/subject7383/Princeton-Applied-Research-M250-270-electrochemistry-data-cleaner/blob/master/cleanCloner.py) something like this can split the data inline, but from there I still don't know how to line them up in separate columns.  
+    
+    if row[1] == starting_value:  
+        outFile.write('\n')
+
+Thanks for any help you can offer! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-24 05:57:06 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Do you know if the job market battery techs there or your neighbor New Zealand is any good right now? I hear they've been on a hiring push for skilled foreign workers recently.
+
+I went to grad school intending to work on battery chemistry but got there and found the funding for it wasn't there and ended up dropping out for other reasons. I did an REU with a somewhat famous electrochemist if that's any help. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-22 05:04:22 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You probably got downvoted hard because most people here found the question overly simple since the parts would effectively just be a raspberry pi and a TV.
+  
+The two things used in the screenshot are screenfetch and conky; other than that you should look into things like OSMC/kodi for dedicated media streaming. I did that with a pi2 for a while, and other than not being able to decode my H.265 media it was pretty great. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2017-01-15 22:45:32 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I was just in the Pisgah National Forest and it looks quite a bit like this around the Cold Mountain area. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-12-30 22:35:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> The US government has a massive wealth of datasets to play around with: [data.gov](https://www.data.gov/).
+
+I used to use OriginPlot for my projects, then moved on to matplotlib, but I prefer R now since I like its defaults and it's easy for others to use. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-12-30 00:54:07 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You may enjoy the short story *Learning to Be Me* by Greg Egan. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-12-16 01:13:33 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Haha, it's just traces.  
+Thank you for the feedback, I'm glad you liked it! :) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-12-16 00:27:39 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I really liked /u/sasquatchinheat's [drawing] (https://www.reddit.com/r/Art/comments/5iby17/citrus_whale_pen_and_digital_85_x_11/) and saw him encouraging someone else to make a derivative work.  
+
+I figured I'd do my own, equally inspired by a blurb about Ernest Hemingway [peeling oranges to take a break from writing.] (http://paulocoelhoblog.com/2016/12/07/peeling-oranges-2/) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Poisson of Pith, Digital, 16.5" x 11.7" </TITLE>
+<DATE> 2016-12-16 00:24:35 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-12-12 21:57:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> More than one way implies both can be used.  
+Last I checked they didn't close down all the zoos after Planet Earth was filmed, and high school outreach programs don't require destroying the local science center. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-12-12 21:16:42 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> God forbid we employ more than one way to teach kids. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-12-03 17:07:08 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [You can make your own version that won't get soaked in piss.] (https://www.pretzellogix.net/2016/02/24/laser-bathroom-light-project-the-analog-version/) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-11-15 06:38:57 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> One would've expected The Mule to take up the banner of a donkey, but here he came in on an elephant. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-11-12 15:33:03 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I think it's dangerous - though cathartic - to simply brush people like this off as stupid. They've been failed, hard, by the education system. (How many members of the community were taught by that charlatan?)
+
+There needs to be a real concerted effort to provide *everyone* with a real education, lest we all suffer. I have little clue how to remedy the people who've been run through it and are now decision makers. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-11-12 15:09:27 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm an energy scientist and I've been told things along this line.  
+There are people who push things like [this](http://www.discovery.com/dscovrd/tech/town-rejects-solar-panels-that-would-suck-up-all-the-energy-from-the-sun/) that we laugh at in meetings, but it's a real threat to allow this to propagate.
+
+I just wanna protect my little planet :( </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-11-12 01:46:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Busy busy busy. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-10-17 21:49:54 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I've only read his dirty old man era work.  
+Thanks for the rec, I'll check it out! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-10-17 20:04:26 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> His poetry is alright, but I don't really like his novels.  
+As you noticed and as someone else mentioned the prose is simple and it's easy to get through (that's not a bad thing in itself), but upon finishing it felt like I'd wasted my time, there's usually a few decent statements about drudgery but the characters feel like they don't develop, so reading the book itself feels like a sisyphusian effort. The backdrops shift but the characters don't, they keep doing the same things in different places; the book ends and all you can imagine is that he goes off and finds another shit job with another shit boss, and another woman to complain about, rinse and repeat until death.
+
+What really left a bad taste in my mouth was that he comes off as kind of a self important asshole and it detracts from the message. It feels more like he's bragging at a bar rather than painting a story. Which, I suppose is his allure, but it's not my thing. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-10-16 20:34:18 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> He's a pretty cool dude; given his time as a dangerous automaton I'm pretty sure he'd want to steer us clear of any wars.  
+[Also he's got a decent amount of experience putting himself in other peoples' shoes off the silver screen.](https://www.youtube.com/watch?v=yLEMb_RIZ3o)
+
+Diesel Damon 2016 </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-10-14 15:33:01 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Wouldn't Villa Straylight be more applicable? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-10-12 04:14:40 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Perhaps my favorite single line of his:
+
+*"Hello babies, welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. At the outside, babies, you've got about a hundred years here. There's only one rule I know of, babies:  
+God damn it, you've got to be kind."*
+
+Edit: Seeing this one already mentioned, along with my other favorite short quotes, I shuffled through my notes on Galapagos and found this:
+
+*There was still plenty of food and fuel and so on for all the human beings on the planet, as numerous as they had become, but millions upon millions of them were starting to starve to death now. The healthiest of them could go without food for only about forty days, and then death would come.  
+And this famine was as purely a product of oversize brains as Beethovens Ninth Symphony.  
+It was all in peoples heads. People had simply changed their opinions of paper wealth, but, for all practical purposes, the planet might as well have been knocked out of orbit by a meteor the size of Luxembourg.* </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-10-10 22:30:20 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> If you're going to be using it as a media center in your living room, why not incorporate [this series?](http://awesomepi.com/part-3-using-ambilight-for-every-hdmi-device-an-ultimate-step-by-step-tutorial/) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-10-09 03:52:52 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I never could - and still can't - get into the habit of this with physical books, and have stuck with just dog-earring pages with my favorite sections; reading ebooks I end up highlighting it nearly as a second nature.  
+Holding a pencil for leisure reading has been somewhat frustrating for me too, probably because it's not how I usually do it. Maybe try just keeping one on you and only pulling it out in the moment you're struck with inspiration? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-10-05 23:49:01 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Ah, there is one for the generic data I had stored.  
+I figured that wouldn't matter since the script was being called from the same directory as the data, but that got it working.
+
+Thanks a ton! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Crontab Failing Specific Python Script </TITLE>
+<DATE> 2016-10-05 23:33:16 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Hi everyone,
+
+I have a [python script](https://github.com/subject7383/jazzyWeather) I'm trying to get to run with crontab, but it isn't working; although it works just fine by other methods.
+
+
+My script is meant to produce some text and play an mp3 file, but the file doesn't play. I thought it was just some issue with sound output, but setting cron to output a .log file *does* create a file, but it comes up empty though it should at least create text. Even stranger, commenting out the portion that plays the song still leaves me with an empty log file.    
+I tried making a separate .sh script that runs the python script when called, but unfortunately that didn't solve my problem either.  
+
+I then tried making a generic script that just prints "Hello, world" and that one worked fine with cron, I'm slowly trying out different combinations of the modules used to see what's failing, but they're working for me after trying a few, even the vlc one for music!
+
+I figure this might be an issue somebody has run into before, but I can't find it online.
+
+Here is the latest cronjob:
+
+    * * * * * /usr/bin/python /home/kyle/path/to/script.py  /home/kyle/out.log
+
+If you want to try the full program, generic .json data can be generated [here](https://www.wunderground.com/weather/api/d/docs?d=data/forecast) rather than waiting for API approval.
+
+Thanks in advance for any help! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-09-21 15:38:26 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> When did you go?  
+I won multiple scholarships/awards on top of coming in with "full" bright futures and I'm still in considerable debt, despite having Pell grants every year and only accepting subsidized loans.  
+Bright futures had a ton of cutbacks to it. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-09-06 04:48:02 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> We're going to be stuck in our local group because others are moving away from us FTL.  
+[Kurzgesagt made a decent video explaining it recently.](https://www.youtube.com/watch?v=ZL4yYHdDSWs) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-09-03 19:10:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Ah, maybe it's because I'm using firefox. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-09-03 18:01:36 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> They show up for me, what version are you on? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-30 15:49:12 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm doing a UL split that includes all the major compound lifts. I try to climb on the same days I focus on upper body so there's a solid recovery day. However, I have poor technique and climb overhung routes so my lifts do tend to suffer a little. On days when I lift first I tend to be more conscious of my form because I'm trying not to overwork myself, but I can't climb for nearly as long.  
+Typically antagonist training doesn't affect my climbs other than just general soreness. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-15 21:29:52 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Do wrist curls for 15+ reps to help up your endurance. And don't juice the holds, it takes less than you'd think to stay on. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-12 18:49:51 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It depends on how you practice I suppose.  
+Like I said, this is a philosophical argument about what one defines as memorizing, akin to the Chinese room thought experiment. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-12 18:46:32 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I disagree on the first point (possibly because I worked in developing it for 3 years and need to justify that time), but yes, nuclear could be *huge* for us if people didn't still consider it a boogeyman due to accidents caused by cut corners on safety measures. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-12 18:43:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I think this is more a philosophical argument of what constitutes "memorizing."  
+
+I'd say what you described is learning and understanding, but staring at a page that says "ketone + Grignard = alcohol" until it's burned into your brain is memorizing. Understanding would be knowing the nucleophilic nature of Grignard reagents, and electrophilic nature of ketones.  
+If you were given a problem where your molecule had both a ketone and a protic group somewhere in it, or protic solvent, you'd know the reaction wouldn't work because the proton would quench your Grignard, but student A who memorized it would just see the pieces they remembered and get the answer wrong. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-12 18:36:12 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah I hate that students take (and proliferate) that approach and make it so much harder for themselves, stressing over flash cards and pulling their hair out when they could breeze through.  
+It's a shame, it can be such an elegant field but students just don't know how to approach it properly. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-12 18:30:31 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> In my opinion, the problem is that it's so easy to do it at that stage, especially because of the way the information is often presented, memorization seems to be the only way to make sense of the material.  
+I think that's why, pedagogically, teaching GenChem before OChem causes issues for students; they're primed for memorization because that's how they did it before. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-12 18:24:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'd imagine when humanity reaches this point solar farms would be implemented at the airport(solar runways, perhaps?), replacing fueling trucks. The airplanes (and most vehicles) would be running on battery power since "in vivo" generation of solar energy would not be ideal for a plane, so we'll need some major advancements in battery technology, but that's the next big breakthrough on the horizon.  
+Given the power constraints it's likely the energy will be sourced from somewhere else though. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-12 11:17:04 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You shouldn't really be memorizing anything in OChem.  
+I've been teaching it for 3 years now and understanding the fundamental concepts of where electrons want to be can get you through a lot of stuff on the fly. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-11 19:19:19 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Calluses thick enough to insulate. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-08 01:41:53 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Oh awesome, thanks for putting in the work! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-04 05:37:07 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> That's odd since everything I've read says that that's for sarcoplasmic growth, so useless mass gets added.  
+I haven't read up on any climbing specific sources, or even antagonist in general though, so you probably know better than I do. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-05-04 05:15:06 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> For your lifts are you doing high weight low rep or low weight high rep?  
+I'm not sure whether the antagonists need strength or endurance focus to avoid injury. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-04-15 17:21:33 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Kelsey Grammer was an alcoholic with a coke habit at the time and would come in to film absolutely ripped, [but when the camera started rolling he'd snap into character and maintain it.](https://en.m.wikipedia.org/wiki/Kelsey_Grammer#Substance_abuse_and_legal_issues) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-04-08 17:51:50 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Mine (lace) had the tongue rip out from the right shoe after about 4 months of use, maybe I'm just really unlucky. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-03-25 05:11:10 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> $1,850,000/$17,845 is about 104. That's a little less than a tenth of what a Bentley owner has.  
+You own 0.029 jets, and 0.01 yacht.  
+More worryingly, there may be a few things missing from your Mazda3 because you only own about 81% of a car; I'd suggest taking a few parts from the Bugatti owner's fleet since they probably wouldn't even notice. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-03-24 17:38:11 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Give us strength, Oh Lord, to let our children starve. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-03-15 08:46:20 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Calibre can convert Amazon's proprietary .mobi format to .epub and vice versa. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-01-10 18:08:33 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah the same thing worked for me as well, decent excuse to buy more RAM I suppose; it seems like the original BIOS for this board just didn't like Crucial since other people have this problem as well.
+
+Thanks for your response! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2016-01-09 03:49:40 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm having the same exact issue, same board, same CPU, and same brand of RAM; did changing out the RAM stick fix it for you? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-10-09 06:07:39 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I think you'd actually like it if you take it as though Fitzgerald *meant* for the characters to be unlikeable.
+
+After commenting that Daisy and Tom are careless, Nick literally says speaking to Tom is like speaking to a child, appeased by handshakes and pricey baubles.  
+The closing line (to me) is basically chastising Gatsby for chasing a receding shoreline, the useless pursuit of Daisy as she had been in the past; earlier in the book he says that Gatsby is pursuing Daisy as a way to recover a part of himself that he had lost. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-09-29 15:19:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Bouldering is great.] (http://www.climbing.com/blog/real-rock-climber/) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-08-06 16:28:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I just emailed professors at my school whose research I found interesting for my first lab; then honed my interests there and attended a chem club meeting where a few professors talked about their research. I hadn't done very well in courses my first semester, but my a chem professor vouched for me to start in the lab I went to after genetics; getting to know your professors and asking questions would probably be a good idea. They'll also be able to provide better rec letters later on if they actually know you.
+
+As for internships (which is what ChemE's aim for afaik) I'm not sure since I've never been too industrially minded, but your school would probably have a career resource center who might be able to help since that's a big thing for all engineers. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-08-06 16:19:19 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Strange! I have similar stats; but I'm not doing straight organic anymore. I also emailed professors to ask about their research prior and applied really early so that probably helped a bit.  
+During the visit weekends the people that spoke to us mentioned that they haven't found GPA or GRE to be indicative of success at all, since they've had 4.0s fail out and 3.0s do extremely well.
+
+You might have an easier time with it after working and growing up a bit anyway.  
+I feel you on the break, a little bit of a breather period would've been nice, but it just wasn't something I could do with impending student debt. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-08-04 16:43:46 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> If you've had prior experience with physics   MV/vector calculus I wouldn't sweat it too much.  
+I had OChem II + lab, Physics I + lab (without any prior studying of physics), Calc III(MV), and DiffEq one semester along with research and a board position in the chem club. It was really stressful, but manageable as long as things are scheduled properly and you get enough sleep and exercise/relaxation time in between.
+
+It's student/school dependent, but I thought AChem was simple but meticulous; I didn't like the class because I thought it was boring moreso than difficult. Seems like you're ChemE though, so you'll probably think differently of it.
+
+Also, pairing inorganic with PChem II (which I assume is QM) is a pretty good idea, since they both cover very similar concepts (and they're really fun).
+
+General advice:  
+Don't be scared of things just because you hear they're hard. When you focus on the material itself rather than what's said about you'll have a much easier time with it.  
+Get into a research lab as early as you can! Don't worry about not knowing enough, they won't expect you to off the bat; you're there to learn and they know that. Go for whatever you think sounds like might be cool, it's ok to switch labs (I did genetics for 6 months before switching to OChem, now I'm going to grad school for PChem).  
+**Research experience and letters of rec are what gets you into grad school, not your GPA.** Don't go getting straight C's, but if you find you hate AChem, don't be afraid to take a B to flesh out your research exp.  
+Don't sell yourself short on your learning abilities, but don't overload yourself either. It'd probably be better to take an extra year to spread it out rather than burn out. Wrt that, get a hobby or two; no matter how much you love chem you'll need a break once in a while. Setting down your homework for an hour to go for a hike/swim/bike ride/knitting club and coming back to it fresh could help you see a way to finish a problem you were stuck on.
+
+Most of all, have fun with it! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-07-30 00:30:18 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm late but I'll play, if only to look back on it in a year.
+
+Cat's Cradle - Vonnegut  
+The Road - McCarthy  
+Fahrenheit 451 - Bradbury  
+Animal Farm - Orwell  
+Brave New World - Huxley
+
+
+Bonus plays:  
+The Importance of Being Earnest - Wilde  
+Proof - Auburn </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-07-28 01:20:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> This is my off-width! It was made for me! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-07-21 03:24:38 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Do you have links?  
+I'm trying to cut my teeth on programming. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-07-16 16:18:35 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> This looks like a combination of those put into one image. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-26 23:50:11 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [How do you like this?] (http://imgur.com/4aRsFOF) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-26 22:28:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Will this tide you over in the meantime?](http://i.imgur.com/a4m61LI.png) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-25 21:42:01 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Mineral oil is inert, so no!  
+[You can submerge everything in it if you'd like.] (https://www.youtube.com/watch?v=XGcW7Ii_BKo) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-25 20:06:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Anti-capitalists would use Linux and other FOSS, specifically due to Apple's PR grabs while exploiting people worldwide. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-24 07:25:20 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah, that was predefined functions and plotting of randomly generated data.  
+I couldn't figure out where to go from there. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-24 00:51:52 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> That's a good idea.  
+I'm not entirely sure how to go about that though; if it helps, this is how I import data to plot.
+
+    import numpy as np
+    import matplotlib.pyplot as plt
+    
+    
+    data = np.genfromtxt("D:\\Users\\eggs\\spam\\fileToPlot.csv", delimiter=',', names=['x', 'y'])
+    
+    fig = plt.figure()
+    
+    ax1 = fig.add_subplot(111)
+    
+    ax1.plot(data['x'], data['y'], color='g')
+    
+    ax1.set_title("")    
+    ax1.set_xlabel('Voltage (V)')
+    ax1.set_ylabel('Current (A)')
+    
+    plt.show()
+
+I'm thinking there may be some way to do something along the lines of this to plot one point at a time?
+ 
+    n=1
+    while n  #number of points:
+        x=data[:n,0]
+        y=data[:n,1]
+        n +=1 </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> How do I Animate Plotting of .csv or .xlsx Data? </TITLE>
+<DATE> 2015-06-23 22:43:26 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Hi everyone,
+
+I'm using Python 3.4 and the most recent Anaconda distribution of SciPy (i.e. using matplotlib for plotting).
+
+I'm trying to make an animated plot that traces out my data from either a .csv or .xlsx file (trying to show colleagues how data will appear when running an experiment), but all of the documentation I'm pulling up is on animating functions or random data.  
+Could somebody please help me out/point me in the right direction?
+
+Here's the closest example I've found, but it's an animation of random data:
+
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import matplotlib.animation as animation
+    
+    def update_line(num, data, line):
+        line.set_data(data[...,:num])
+        return line,
+    
+    fig1 = plt.figure()
+    
+    data = np.random.rand(2, 25)
+    l, = plt.plot([], [], 'r-')
+    plt.xlim(0, 1)
+    plt.ylim(0, 1)
+    plt.xlabel('x')
+    plt.title('test')
+    line_ani = animation.FuncAnimation(fig1, update_line, 25, fargs=(data, l),
+        interval=50, blit=True)
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-23 19:14:16 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Pictures are dark because my phone broke so I used my tablet.  
+I included all the wallpapers except for the IR Pillars of Creation since it's massive; [here's the Hubble website where they're hosted in full resolution glory.](http://hubblesite.org/newscenter/archive/releases/2015/01/image/g/)
+
+Specs:  
+MOBO: MSI X99S SLI Plus ATX LGA2011-3 Motherboard  
+CPU: Intel Xeon E5-2603 V3 1.6GHz 6-Core Processor  
+RAM: Crucial Ballistix Sport 4GB (1 x 4GB) DDR4-2400  
+Memory Storage: 3TB Seagate HDD   120GB Samsung 840EVO SSD  
+GPU: EVGA GTX 760 4GB  
+PSU: EVGA SuperNOVA NEX 750W 80+ Gold Certified Fully-Modular ATX  
+Case: Corsair Air 540 ATX Mid  
+Monitors (left to right): Westinghouse TV, 2x Asus PB238Q (portait), Acer H236HL  
+Keyboard: Logitech K120 (not into mechanical)  
+Mouse: Gigabyte GM-M6800
+ </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Rearranged for Thesis/Presentation Preparation </TITLE>
+<DATE> 2015-06-23 19:06:10 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-18 05:22:41 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> What's showing in the top right?  
+Music visualizer? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-18 05:16:57 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Specs?  
+Desk? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-14 02:49:21 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It's probably school dependent, but I took intro level chemistry (1   2) without having taken HS physics and did fine.  
+You'll likely need intro physics to complete a chemistry degree though, and I wouldn't recommend taking anything past intro and maybe organic without physics. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-12 04:07:07 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You could use Deluge. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-09 22:54:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yes, thank you very much!  
+I've been using the Anaconda distribution of SciPy and have been working through a friend's physics problem sets with it.
+
+Are there any books in particular that you would recommend? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-09 19:27:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'd likely be joint with an (ultrafast) experimentalist, so probably calculations and maybe model building.  
+I have a physics minor and 3/4 of a math minor (couldn't afford to finish it) if that adds to anything. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-09 16:02:50 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> What would you suggest to someone about to make the switch themselves?  
+I start my Ph.D. in ~2 months and I've been learning Python   skimming over intro to comp. chem books to try to bring me closer to my peers' levels. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-09 05:32:34 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> How difficult was the switch from wet work to computational? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-09 05:15:04 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> They probably are, but I'm starting my Ph.D. in 2 months.  
+The school I'm going to doesn't have its own climbing wall though, so it's tempting. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-09 01:20:30 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Is intel looking for physical chemists in the next 5 years?  
+Would designing climbing walls be billable hours? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-05 05:32:17 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Remove quick draw, whip, repeat?
+
+Maybe some kind of automated process that de-threads could be made. Probably wouldn't work with quick draws though. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-02 23:37:25 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Can you explain the joke?  
+I don't get it. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-06-01 16:49:27 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Battery life ranges from [5-10 days.] (https://getpebble.com/#/.jagk3o:Fuqt)
+
+Their screens are some form of low-power LCD.
+
+E: [Found specs listed from a teardown for the curious.] (http://www.reddit.com/r/pebble/wiki/tech_specs#wiki_power_.26_battery) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-31 03:56:26 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> FYI, if you ask the people manning the wall they have a book full of unmarked routes. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-30 08:29:46 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Current version ramps down brightness/screen temp down over a span of either 20 seconds (default) or 1 hour, centered about the sunset time for whatever location you enter.  
+The latter is smoother, but I wouldn't call it completely unnoticeable. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-20 19:28:48 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You're trying to disentangle the two for some reason. Anyone would be opposed to unregulated dumping (aside from short-sighted profiteers).  
+I will grant that *alternate methods* of fracking like the gas soluble petroleum gels would be preferable (provided they work properly) to how it's currently done. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-20 06:22:35 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Just in case anyone hasn't seen this.] (https://twistedsifter.files.wordpress.com/2010/06/george-orwell-vs-aldous-huxley-brave-new-world-vs-1984-comic.png) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-20 04:11:34 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Decent human being != pushover. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-20 04:06:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [lol] (http://rt.com/business/apple-us-tax-avoidance-74bn-571/) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-20 03:46:23 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> A cold wind blew across the wet, pock-marked face of James Tarraway.  
+Questions filled his aching head, he scanned the empty alley looking for somebody to ask his whereabouts.  
+Finding no one, he turned around to question the source of the faint humming behind him, but was faced with only a doorway in a concrete monolith emblazoned with "EXIT ONLY."
+
+James stumbled down the alley turning out his pockets, a sinking feeling setting in his stomach as he pulled out a pay stub.  
+$5,000, he'd never received a check this large before, not even for the Russian girl he'd bedded.  
+In fact, he couldn't seem to remember leaving the house that day at all. Something must have gone wrong. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-20 00:49:45 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> This sounds pedantic.   
+Is leaving behind chemical waste not pollution?
+
+Regardless of whether it was contained in the shale to begin with or introduced via the fracking solution itself, if something harmful finds its way into the water supply due to fracking then fracking caused pollution of that water supply. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-19 23:03:33 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Have you thought about debezeling the monitors or do they just not bother you? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-19 23:01:06 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> That doesn't make it ignorable or even forgivable. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-18 21:49:40 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>     import random
+    print(random.randint(1,15000)
+
+10894 </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-18 03:40:30 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Great writing. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-17 17:44:44 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> They allow the charge to be passed, which would short the transistors/anything with a circuit running electricity. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-17 03:44:18 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> How workable do you find having an triple monitor setup with an ultrawide in the middle? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-17 02:38:49 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> 17824 </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-16 19:31:28 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Great job!
+
+Not quite a mistake, but episodes 6-8 are named if you'd like to fill them in.  
+6 - Unbowed, Unbent, Unbroken  
+7 - The Gift  
+8 - Hardhome  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-15 19:12:06 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>     import random
+    random.randint(1,10000)
+6793 </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-13 04:08:31 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Does anyone have any confirmation on that girl who said that she's about to get a Ph.D. in quantum physics?  
+That seemed less than true. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-11 22:57:19 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm a chemist, one night a few friends and I assigned point groups to various sex toys instead of studying for an inorganic exam.  
+Good times. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-10 07:44:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I wouldn't say so. I thought the ammo/supply scarcity helped the situation; the atmosphere relies a lot on the sense of desperation and bleakness, which was brought out just a bit more by playing on hard and being continually low on supplies/counting bullets.  
+
+It was like reading The Road with a controller in my hands. There can be slow moments (in terms of gameplay, as story was a priority) and a few animations can become repetitive, but it isn't really meant to be an action game. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-10 05:36:01 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You wouldn't happen to have any more info on that would you?  
+It seems like it'd be a fun project to set up your own tool storage with something like that. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-09 18:45:38 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> People who get into relationships for money are probably as boring and vapid as the people who throw money at them for their company. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-09 08:27:07 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> But the underdog is from a big OS monopoly.  
+You can't win :( </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-05 21:45:43 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You don't have to tally this with upvotes and comments; [you can make a survey through Google.] (http://www.google.com/forms/about/?gclid=CjwKEAjw1KGqBRC55bru-sa7zCcSJAAxsBf58w7Vb1DACDU57dhrrP3np0DYwh4FdpzumGgFOY6RvRoCyqPw_wcB) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-05 01:54:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You wouldn't happen to know which other beers have been handed over to AB, would you?
+
+I'm moving to Chicago in a few months and was looking forward to being near the source. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-04 21:59:07 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Food irradiation can actually be used in lieu of preservatives!] (http://www.fda.gov/Food/ResourcesForYou/Consumers/ucm261680.htm) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-04 20:16:54 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [They still have a couple brewpubs in the GCA.] (http://www.gooseislandbrewpubs.com/)
+
+According to the site, the Bourbon County stouts are still sourced from there.  
+No idea what's happening to the 312 though :( </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-04 08:48:51 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Except the housework is a 24/7 job; all that time spent making memories of cleaning your rooms and getting them all prim and proper could have been spent outside making different memories.  
+
+Hell, there are tons of people who do decide to renovate their rooms, then don't feel like keeping them up any more, so they don't.  
+Children, unlike rooms, can't be fixed back up with a few weekends and some elbow grease.
+
+Some things aren't for everyone. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-04 02:29:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> If it were absolutely pure, nothing!^*  
+That's why when people set up liquid cooling for their PCs they use ultra pure water (or coolant fluids/mineral oil) rather than water from the tap.
+
+*There could be some electrolytes somewhere on the board that would dissolve in the water and ruin the fun. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-03 22:54:51 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah I noticed that; I'd never thought about the units all that much since everyone has always just called it 18.2 M water.  
+Your question got me to learn something new, thanks! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-03 19:34:48 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> That's the accepted standard for "pure" water in chemistry; it's typically measured in the purification machine so it'd be specific to what the dimensions are within the machine.  
+It's not my area, but if you're curious the one I've used most often is [Mill-Q] (http://en.wikipedia.org/wiki/Milli-Q), you may be able to dig up diagrams of the innards. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-03 18:12:27 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Just to clarify, this is right.  
+Pure water has a really high resistance (18.2 M), but basically every bit of water you come across will have salts dissolved in it; the dissociated ions carry the charge and allow current to pass through.  
+Source: worked in electrochemistry for a few months. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-02 23:17:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Interesting. I didn't think of the compounds being extracted overseas or with minimal regulation.
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-05-02 18:17:24 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Actually there are a handful of total synthesis methods,] (http://en.wikipedia.org/wiki/Paclitaxel_total_synthesis) however, they aren't commercially viable, hence still sourcing from trees and the biosynthesis research.
+
+You seem knowledgeable about this, could you explain how producing and selling it from poaching is possible? I figure with a drug like this there'd be a lot of regulation and fact-checking on where things were sourced from, especially with harvest regulations. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-28 22:38:34 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Theoretical/computational chemistry is growing more every day. If you have an interest in PChem you may want to look into that. I'm not sure about jobs since I plan to go into academia, but I'd imagine having a solid grasp on physics would make you pretty marketable.
+
+Quantum chem and inorganic turned me from a synthetic organic chemist to starting a PhD in PChem this fall. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-27 07:23:50 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I really like this one too, but FYI it looks like this name has been taken by a [mobile game company.] (http://www.interactivesolutions.se/clients/41/yggdrasil)
+
+Given that it's just a launcher and won't be monetized, however, it could be OK. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-27 06:00:27 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Someone suggested the name gamma (can't find their post anymore); I thought that was cool, so I spent 5 minutes in Illustrator making what the [icon might look like.] (http://imgur.com/GskSR7r) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-26 23:32:55 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'll check it out, thanks! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-26 22:18:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Couldn't tell if it was him or just a look-alike. Hence the question. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-26 21:41:48 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> TIL.  
+Thanks. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-26 21:08:30 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Is that Seth Rogen?  
+I hope this was all just a skit.
+
+E: that'll teach me to not know something! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-25 19:07:55 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Strange women lying in ponds distributing swords is no basis for a system of government! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-25 17:19:59 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> The modders themselves have discussed this and posted about it ad infinitum.
+
+It's seen as a corporatization and is imposing a shift in the community mindset that would lead to a less welcoming/friendly environment for sharing and helping out new modders.  
+They did/do have the option to get paid, they could ask for donations (but some people explicitly states they wouldn't accept donations).
+
+The general community mindset is to do it and share, not monetize. Think GPL/GNU/CreativeCommons vs. copyright. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-25 05:01:28 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [GOG should provide that!] (http://www.gog.com/galaxy) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-21 05:41:46 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Some of this stuff seemed kind of unnecessary even for an overkill build for a consumer, so instead of studying for finals I went through this.
+
+Getting rid of 3 of the 4 25TB external HDDs, the trackball mouse, 3 of the 7 30" monitors, the overpriced OS, the CD drive, 4 of the 6 HDDs, and replacing the overpriced SSD with [this one] (http://pcpartpicker.com/part/intel-internal-hard-drive-ssdpedmw012t4r5) that's the same size and still PCI-e I got it to less than half of that ($20,519). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-13 01:29:10 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> If you're curious, it'd be 47,102 disks after accounting for that.  
+Here are the other stats:  
+510 feet high  
+1868 lbs  
+2.81 mi long. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-08 23:37:10 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm a 4th year undergrad chemist. I'm on the bus so I can't look into your specific example, but I can comment on what generally may be happening given what you provided.
+
+Their "cold" fructose is stuck in a particular conformation as there isn't enough thermal energy to overcome the barrier of rotation for a particular/series of bonds in the compound. While cold, it's locked in one conformation which can only interact with one or a set of taste receptors.  
+When it heats up enough, it can overcome the barrier of rotation and new conformation become accessible; it spends a portion of its time in a conformation that's able to interact with different taste receptors. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-07 06:46:38 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> According to the tests performed by [this video] (https://www.youtube.com/watch?v=I1Uo-KS8kAE) it'll depend on whether it's USB 2.0 or 3.0. Not sure why he didn't do a SATA SSD.  
+If you have a USB 2.0 external hard drive you could probably still crack the case open and run a SATA cable outside your case. You'd *probably* also be able to still power it via the AC adapter. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-04-04 22:36:48 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Rolling for the Bioshock Infinite season pass.
+
+[Steam profile as proof I don't have anywhere near 250 games] (http://steamcommunity.com/profiles/76561198101335103/). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-30 22:54:57 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Desk? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-30 22:16:49 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Happy birthday!
+
+I'm unoriginal so my ID is [subject7383] (http://steamcommunity.com/profiles/76561198101335103/) (you'll have to click the link because I'm so unoriginal that someone else has the same name as me on Steam)  
+I'd like the [season pass for Bioshock Infinite.] (http://store.steampowered.com/app/214933/)
+
+Also on the off chance I win I'd like to request you pick another person with a game $40 since you seem to be willing to spend $60. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-28 04:50:34 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> If you're interested in more (kinda) like this there's [.baxter.] (https://www.youtube.com/watch?v=SbOCTl8J6uo) which is another band Tim McIlrath (vocals for The Killing Tree and Rise Against) was involved with. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-26 00:57:37 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Well I start grad school (and get a salary) in about 6 months, so it seems like a bit of a waste to buy a stereo amp then have to buy a 5.1/7.1 amp in just 6 months; I was thinking the same speakers for FR and FL, and the smaller Covo-S for the rears. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-25 18:09:57 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Working in a terminal-esque environment is a big reason I upgraded too.
+
+If you're willing to risk doing some damage I've seen some people mod their monitors to be VESA mountable. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-25 18:02:39 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm actually familiar with him; I can't quite justify the audiophile setup with an amp, sub, and 5 speakers yet, even if I listen to the Zelda Symphony and SotC soundtracks all the time. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-25 06:00:25 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [I just did the same thing,] (http://www.reddit.com/r/AverageBattlestations/comments/302w4f/added_2_monitors/) huge difference! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-24 14:29:59 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It is a bit awkward at times having to look up to see the upper third of documents/webpages. But if I'm running a math program or processing data on it it's less noticable.
+
+I may upgrade the central monitor to 27-32" down the line. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-24 04:43:28 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> MOBO: MSI X99S SLI Plus ATX LGA2011-3 Motherboard  
+CPU: Intel Xeon E5-2603 V3 1.6GHz 6-Core Processor  
+RAM: Crucial Ballistix Sport 4GB (1 x 4GB) DDR4-2400 Memory  
+Storage: 3TB Seagate HDD, and a 120GB Samsung 840EVO SSD  
+GPU: EVGA GTX 760 4GB  
+PSU: EVGA SuperNOVA NEX 750W 80+ Gold Certified Fully-Modular ATX  
+Case: Corsair Air 540  ATX Mid  
+Keyboard: Logitech K120 (not into mechanical)  
+Mouse: Gigabyte GM-M6800 </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-24 02:02:08 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Wallpapers] (http://imgur.com/a/3S1pF)
+
+Getting an L desk, chair, and speakers when I move in August; if anyone can suggest anything I'd be grateful. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Added 2 Monitors! </TITLE>
+<DATE> 2015-03-24 01:57:34 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-18 05:16:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Thanks for the extra input! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-18 04:54:47 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> The speakers are actually integrated into the monitors, I suppose I should've placed the circles within the monitors. There's only 1 3.5mm audio in port for each monitor.  
+I already have 2 male-male 3.5mm cables, so if I were to get the cable you linked I'd be able to do it, right?
+
+I'm no audiophile, but would a pair of [$10 USB speakers] (http://www.amazon.com/Logitech-S150-Speakers-Digital-Sound/dp/B000ZH98LU) be *that* much of an improvement over integrated monitor sound? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-18 02:31:02 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm actually planning on upgrading to [a cheap-ish 5.1 system] (http://www.amazon.com/dp/B003VAK1FA/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8 colid=26CXL2VK9HMW coliid=I12DLQ5W2WPTIT), but I'm moving for grad school soon and wanted to wait until then, hence the PS in OP. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-18 00:43:10 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah I scoured the internet and came up with a handful of similar solutions using cable splitters and 3.5mm/RCA converters, but I figured that since I already have sound data being sent to each monitor there may be some way to split it via software. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Using two monitors with built in speakers as independent left/right stereo speakers </TITLE>
+<DATE> 2015-03-18 00:21:27 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Hi,
+
+I just got 2 new monitors which have built in speakers, they're flanking a central monitor and I'd like to set each one to output left/right sound only, I figured this may be confusing, so here's [this diagram to help out a bit.] (http://imgur.com/GnRqiSD) What I want is for the left and right monitors to act as separate stereo speakers, "left" sound would play through LL and LR, and "right" sound would play through RL and RR.  
+I have a general idea of how I could do this using cables and splitters, but I'd rather just use what I have.
+
+* Windows 8.1  
+* MOBO integrated sound (X99 chipset)
+* Monitors connected digitally to graphics card (GTX 760)
+* One monitor connected via HDMI, other via DisplayPort (both to graphics card)
+
+I tried using Virtual Audio Cable; although I could get both monitors to output audio simultaneously, I couldn't get it to separate properly.
+
+Thanks for any help!
+
+PS: I'm aware buying separate speakers would produce better sound quality, but I can't justify the cost of an entertainment-only buy.
+
+EDIT: Added diagram to ease understanding
+
+EDIT2: To anyone with the same question, it looks like it's not possible via software alone; /u/Feltz- offered an easy physical alternative below. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-16 20:51:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Something along the lines of Stockholm Syndrome. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-14 06:23:12 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm just excited that my learning and teaching really interesting things isn't gonna indebt me anymore.  
+That might not be a good thing... </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-13 04:05:20 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> That makes sense I suppose. I would be too distracted to even manage a spreadsheet on the bus let alone my usual work so I didn't think of it out of the scope of email and reading documents.  
+
+Thanks for the input! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-13 03:00:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  ...have been used in **behavioral science** for quite some time. They are pretty *useful when you want to talk about the sexual orientation of people whose gender is unknown or irrelevant*.
+
+In the context of a journal publication I'd rather see "a sample set of gynephilic individuals were evaluated under..." than "a sample set including heterosexual males, homosexual females, bisexual ... [three pages of academic jargon for people who like women]." </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-11 18:48:35 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Can you (or anyone else) explain the reasoning behind using expensive subnotebooks (not just Apple) for these sort of situations rather than just a tablet?
+
+I'm genuinely curious as to how people utilize these sorts of laptops designed solely for travel use; it seems to be a pretty popular choice but I can't wrap my head around it. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-11 18:35:23 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Obsession with a minimalist aesthetic I guess.  
+On the upside, USB C is pretty cool (and open!). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-10 23:03:02 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> How did you end up utilizing all of that space? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-10 22:51:06 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It depends on what was used; [This video] (https://www.youtube.com/watch?v=AgWDMPfvXSg) uses [TCCA](http://en.wikipedia.org/wiki/Trichloroisocyanuric_acid) and has a minimal description of what happens.  
+It seems it could also be calcium hypochlorate tablets, in which case it reacts with the water to form calcium ions, chlorine gas, and oxygen gas (as well as some side reactins oxidizing the alcohol/producing chloroalkanes).
+
+This is a pretty stupid idea in either case, as the fumes are dangerous. A half-as-stupid option would be dry ice, where you still get the desired boom without the noxious fumes. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-10 01:50:49 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Reddit's Markdown automatically assigns ordering so if you're making a list and delete some parts it doesn't ruin everything. Check my source on this, it's kinda neat:
+
+2. 
+7. 
+7. 
+945. 
+42.  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-09 23:47:22 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> If anyone has any extra monitors sitting around I could use the extra screen(s). Also if anyone is getting rid of single arm VESA mounts I'd be more than willing to take that too.  
+I'd regift after my thesis is done in August. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Buying Advice: Acer V236HL or Asus vS238H-P </TITLE>
+<DATE> 2015-03-09 10:35:44 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Hi everyone,
+
+I'm in the market to buy 2 1080p monitors to flank my Acer H236HL. I needed them to be 23 inches, VESA mountable, and $150 each; I have it narrowed down to 2 monitors:
+
+Acer V236HL  
+or  
+Asus VS238H-P
+
+
+Use:  
+I'll be doing a bit of document/infographic design with InDesign (not professionally, so I don't need 99% Adobe color space), viewing multiple scientific articles (double column format), writing word docs and plotting data, but most importantly, triple monitor gaming (GTX 760 w/ 4G VRAM, mostly RPGs); I imagine I'll be switching them between portrait and landscape regularly while procrastinating on my thesis.
+
+
+Does anyone have any advice on which of these two (or any others) I should go with, or suggestions for easily pivotable VESA mount arms?
+
+Edit: On the off chance anyone stumbles across this and is curious, I ended up not getting either since I didn't realize they were both TN panels.  
+I went with an Asus PB238Q. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-09 06:43:53 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> /r/buildmeapc would be very helpful if you have a general idea.
+
+Things seem to be on the cusp of a change for hardware.  
+Someone else mentioned monitors and waiting on buying 4K, I agree with him; I'd buy a 1080 or 1440 screen for now and plunge for 4K when DisplayPort 1.3 and HDMI 2.0 hit and G-Sync/FreeSync are more common and there are more with IPS $800 (which would mean maybe saving a bit of money on a GPU, getting a 780 or 970 now and spending the extra money on more monitors).
+
+NVidia's Pascal architecture will be coming out sometime next year and I suppose 4K gaming will be commonplace then, you could possibly even do multi-4K displays on just one card ([right now it takes 3 980s](https://www.youtube.com/watch?v=jt5oE0gpnnk)). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-09 05:59:07 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Shadow of Mordor was really well optimized.  
+Bioshock Infinite was as well, and I thought it had the best story out of any of that series. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-09 05:39:40 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I was on a *really* tight budget this time last year and got a Lenovo U510 refurbished for a bit under $400. The screen is 768 but it has a 1TB HDD and a 24GB SSD (they don't put the OS on the SSD though).
+
+I was able to play stuff like Portal 1   2 and Skyrim on it in my down time. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-03-01 21:33:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm not sure if these answer your question as to a brewing process, but here are a couple interesting links.  
+
+[Computational chemistry paper on cations in coffee.] (http://pubs.acs.org/doi/abs/10.1021/jf501687c)  
+[ACS Undergrad web post, which has a bit of info about roasting (and decaffeination if you're a masochist).] (https://acsundergrad.wordpress.com/2013/02/27/a-cup-of-coffee-for-the-chemists/) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-02-26 19:31:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> No, I'm not; don't be condescending.
+
+What I was building to was an example where two viewpoints could be represented. Take this case where [an artist had a disagreement with the record company publishing their album,] (http://www.billboard.com/biz/articles/news/1083961/streetlight-manifesto-flips-off-victory-records-to-release-acoustic) there are three parties to consider: a fan who pirates the album, the band themselves, and the record company.
+
+1. The fans' act of pirating the data (the album), according to your guidelines is morally reprehensible as it takes away *their* money. "Them" is ill-defined, but since the counter-argument often defines "them" as the artists, we'll look at their case next.
+2. The band members themselves, the creators of the data: in this instance, the producers of the data are at odds with the publishers regarding the withholding of revenue (whether they are entitled to revenue from this data, and how much, is an entirely separate argument). They *advocated* fans pirating their album or buy it directly from them. From their standpoint, fans pirating is a positive, as it lessens the hold that the publisher held on them; the fan would be stealing from thieves. Regardless of the reason for the fans' piracy and the dispute itself, no loss of revenue would be incurred due to the creators of the data, this is morally neutral to the creators, as per your rules. 
+3. The record company: the publishing corporation obviously considers fans pirating as a negative, as it "takes away" their capital.
+
+Shades of grey don't only apply to the well-used example of "a man's wife is dying, money is sparse, does he steal the medicine?"
+
+Different parties are affected in different ways, and view the act in different lights. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-02-26 18:49:47 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Here's a post on the GradCafe concerning this topic.] (http://forum.thegradcafe.com/blog/53/entry-452-all-about-interviews-experiences-for-the-gc-minions/) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-02-26 07:18:39 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> So disregarding the aspect of theft - be it infinitesimal or zero - the basis of the argument is justification of the action?   
+Wouldn't you agree that varies with the frame of reference (even for things that obviously aren't necessities)? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-02-26 06:43:01 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You're arguing moral absolutism. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-02-25 06:53:02 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Throw a sidecar on and let me live in it and we might have a deal. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-02-25 06:46:12 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Make it $100 and I'll cite you in my thesis.  
+3 or 4 people will read it, you'll be famous! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-02-25 04:37:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [UIUC has a pretty good website for this.] (http://www.chem.uiuc.edu/weborganic/organictutorials.htm) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-02-21 23:31:07 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> The guy who makes similar infographics for [CompoundChem] (http://www.compoundchem.com/) uses indesgin. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-02-21 21:28:25 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You may find [this] (http://www.compoundchem.com/wp-content/uploads/2015/02/Analytical-Chemistry-Infrared-Spectroscopy.png) useful as well. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-01-21 01:38:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Or maybe she understood that she couldn't plow through shipyard security to get on the ferry despite going through what may be the worst day of her life.
+
+People react to grief differently. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2015-01-18 06:54:25 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> These are so gorgeous.
+
+Perhaps if these were shown along with the sort of problems in general chemistry courses more students would stay interested!
+
+E:Can't how to spell. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-12-15 09:32:02 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Ni No Kuni was supposed to be like this; I haven't played it but I think it was well-received. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-12-13 05:19:43 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Rust!
+
+Thanks for the giveaway, OP! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-12-13 05:14:17 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> 1: LIMBO  
+2: Bastion
+
+Thanks for the giveaway! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-12-11 00:58:38 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Will do summer chemistry internship for poutine. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-12-09 05:57:12 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> After the [Hendrik Schn fiasco] (http://en.wikipedia.org/wiki/Sch%C3%B6n_scandal) he had his doctorate revoked, but I heard he's actually a practicing engineer now; worse, some of his collaborators went on to become department heads at various schools. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-11-24 23:50:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You should've been here last summer; here are some highlights:
+
+* [Babby Bchner Funnel] (http://www.reddit.com/r/chemistry/comments/1g72ww/more_on_the_bandwagon_tiny_buchner_funnel/)
+* [Hatchling Griffin Beaker] (http://www.reddit.com/r/chemistry/comments/1g1h16/found_this_little_guy_when_hunting_in_the/)
+* [Volumetric Flask Fawn] (http://www.reddit.com/r/chemistry/comments/1g1mb1/tiny_glassware_1ml_volumetric/)
+* [Glass Frit Foal] (http://www.reddit.com/r/chemistry/comments/1fvccy/i_think_ive_found_glassware_that_is_too_small_to/)
+* [I'm out of baby animal names here's one last small thing] (http://www.reddit.com/r/chemistry/comments/1nvruc/just_unearthed_my_old_micro_chem_set_from_high/) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-11-18 06:34:47 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Try subbing to /r/askscience, random learning doesn't have to end! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-11-14 16:52:32 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It must've been [microwaved.] (http://www.science20.com/cool-links/the_food_babe_took_down_her_goofy_microwave_oven_post_science_win-140892) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-11-12 00:33:32 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> All those machines were in fact running Linux distros; I didn't know that was exclusive.
+I guess it was terminal and not PuTTy. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-11-12 00:27:04 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I've seen a few examples of people getting PuTTy to show whatever you put behind the program window, it may work for every other thing as well. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-11-07 17:00:28 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> And Catch-22's Keasbey Nights! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-11-06 17:14:02 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You're not helping your case there. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-11-06 01:24:06 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> How does having the TV affect your workflow?
+
+Do you find yourself actually using it for anything other than entertainment? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-28 06:50:18 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Honnold did ~~the entire~~ 90% of the Yosemite triple free solo in less than ~~24~~ 19 hours; the man is a mountain goat. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-28 02:15:03 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> VX != [IUPAC](http://en.m.wikipedia.org/wiki/IUPAC)
+
+Though making OP name organic compounds might be as painful as alcohol in a wound. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-24 10:20:48 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> That's the "futureproof" part! I do more computation than I do gaming. ^at ^least ^that's ^what ^I ^want ^my ^PI ^to ^think... </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-24 08:55:25 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I've been waiting about 3 years!
+
+I chose what I would be able to use as as a base for upgrades, so the only real splurge was the 760. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> I Have Ascended! </TITLE>
+<DATE> 2014-10-24 08:18:31 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> After years of suffering through my university's library computers, then a somewhat less arduous journey through the land of the laptop (but still offering its own horror of gaming with integrated graphics), I have made it to Mount Masterrace; as I transition from lowly undergrad to slightly-less-lowly grad student, I will do it on a glorious PC stallion.
+
+[Here are all the pretty boxes!](http://i.imgur.com/mowgwPU.jpg?1) If anyone cares I'll post my finished build in the morning. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-21 02:54:46 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Whoops, I meant triple 4K, I think that's an issue of drivers and power supply though, IIRC some people got it to work for a racing game.
+
+That's what those fancy supercomputers that do my work wish they ran on. I actually have an old server board with some impressive stuff for its time (2 dual-core xeons and 32GB of RAM, even if it is all DDR2); hang around loading docks of your local university and you might find some people throwing that out in 10 years or so!
+
+Anyway looks like I'm all set then, I'll go with the X99 build. Thanks again! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-21 02:00:19 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I think workstation GPUs are for professional photo editing or SolidWorks for engineers; the closest I get to really intensive GPU related calculations in my work would be pre-optimizing things showing some spheres move around while the CPU finds coordinates so I can send them to a supercomputer. I can do that with my laptop now, but trying to do data analysis in Excel makes it freeze up (plotting ~10^4 ordered pairs). I'm not looking to have future-proof components initially (so I won't be starting out with quad SLI 980s), but lay a solid foundation for what would evolve into a hardcore computer in a few years (e.g. by the time the Pascal GPUs come out and cost around what a 980 does now I'd be willing/able to drop the cash to SLI *those*).
+
+It's really approaching 2 rigs at once I guess. Initially it would be a moderately good machine; as a reach scenario, an ideal starting rig would be capable of running a 1440p ultra-wide center monitor with 2 flanking 1080p monitors, able to combine them in eyefinity and play Tomb Raider on max settings with 30 fps. Plotting data sets as large as those that crash Excel for me, but with 3 dimensions and then being able to adjust it with no stutter, maybe while I have a couple tabs open in Chrome. 
+
+Down the line something powerful that currently just can't be done without bleeding edge hardware (which is why I brought up GPUs and CPUs still in development). I'd also like a CPU capable of handling compiling code, plotting data, and making a lecture in powerpoint all at the same time across all those high resolution screens. More logical cores would probably be useful than clock speed. The "reach" scenario for the end system would something crazy like triple monitor 1440p for gaming while game stats/internet browser display on the portrait 1080p **and** a movie plays on the 4K TV. Though all that is a combination of CPU, GPU, and RAM. Although that would probably still melt a hole in my desk within a minute.
+
+I figured when you said the X99 chipset could handle more bandwidth that'd be good for doing more things at once down the line, and having enough PCI ports to throw fancy GPUs at it would certainly help the unrealistic goals. Though that might require an entirely new mobo by that point. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-21 00:04:52 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> So I found a (base) setup with an X99 mobo since you seemed adamant about it; I'm taking a hit on the CPU on both power consumption and clock speed, with the idea that I can upgrade it to something better once broadwells come out and the price for haswell drops. Half the RAM (but it's DDR4) and SSD space (not a big deal, since I'll just be putting an OS on it). GPUs are cutback for both, but I've been gaming on integrated laptop graphics and the focus isn't games anyway.
+
+[PCPartPicker part list](http://pcpartpicker.com/p/VZN499) / [Price breakdown by merchant](http://pcpartpicker.com/p/VZN499/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Xeon E5-1620 V3 3.5GHz Quad-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80644e51620v3) | $302.98 @ SuperBiiz 
+**CPU Cooler** | [Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler](http://pcpartpicker.com/part/cooler-master-cpu-cooler-rr212e20pkr2) | $28.99 @ Micro Center 
+**Motherboard** | [Gigabyte GA-X99-UD4 ATX LGA2011-3 Motherboard](http://pcpartpicker.com/part/gigabyte-motherboard-gax99ud4) | $250.98 @ SuperBiiz 
+**Memory** | [Crucial Ballistix Sport 8GB (1 x 8GB) DDR4-2400 Memory](http://pcpartpicker.com/part/crucial-memory-bls8g4d240fsa) | $111.99 @ Amazon 
+**Storage** | [Samsung 840 EVO 120GB 2.5" Solid State Drive](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz7te120bw) | $79.99 @ Amazon 
+**Storage** | [Seagate Barracuda 3TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st3000dm001) | $99.98 @ OutletPC 
+**Video Card** | [MSI GeForce GTX 660 2GB Video Card](http://pcpartpicker.com/part/msi-video-card-n660tf2gd5oc) | $159.99 @ Newegg 
+**Case** | [Corsair Air 540 ATX Mid Tower Case](http://pcpartpicker.com/part/corsair-case-cc9011048ww) | $125.67 @ Amazon 
+**Power Supply** | [Corsair CSM 750W 80+ Gold Certified Semi-Modular ATX Power Supply](http://pcpartpicker.com/part/corsair-power-supply-cs750m) | $99.99 @ Micro Center 
+**Monitor** | [Acer H236HLbid 60Hz 23.0" Monitor](http://pcpartpicker.com/part/acer-monitor-umvh6aa003) | $129.99 @ Best Buy 
+ | | **Total**
+ | Prices include shipping, taxes, and discounts when available | $1390.55
+ | Generated by PCPartPicker 2014-10-20 17:33 EDT-0400 |
+
+The alternate base setup is stripping down what you listed, keeping the Z97 chipset.
+
+[PCPartPicker part list](http://pcpartpicker.com/p/mx8qwP) / [Price breakdown by merchant](http://pcpartpicker.com/p/mx8qwP/by_merchant/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i5-4690K 3.5GHz Quad-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80646i54690k) | $199.99 @ Micro Center 
+**Motherboard** | [Gigabyte GA-Z97X-Gaming GT ATX LGA1150 Motherboard](http://pcpartpicker.com/part/gigabyte-motherboard-gaz97xgaminggt) | $189.98 @ SuperBiiz 
+**Memory** | [Crucial 16GB (2 x 8GB) DDR3-1600 Memory](http://pcpartpicker.com/part/crucial-memory-ct2kit102464ba160b) | $141.80 @ Amazon 
+**Storage** | [Samsung 840 EVO 120GB 2.5" Solid State Drive](http://pcpartpicker.com/part/samsung-internal-hard-drive-mz7te120bw) | $79.99 @ Amazon 
+**Storage** | [Seagate Barracuda 3TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st3000dm001) | $99.98 @ OutletPC 
+**Video Card** | [MSI GeForce GTX 760 2GB TWIN FROZR Video Card](http://pcpartpicker.com/part/msi-video-card-n760tf2gd5oc) | $179.99 @ Newegg 
+**Case** | [Corsair Air 540 ATX Mid Tower Case](http://pcpartpicker.com/part/corsair-case-cc9011048ww) | $125.67 @ Amazon 
+**Power Supply** | [Corsair RM 1000W 80+ Gold Certified Fully-Modular ATX Power Supply](http://pcpartpicker.com/part/corsair-power-supply-rm1000) | $149.99 @ Amazon 
+**Monitor** | [Acer H236HLbid 60Hz 23.0" Monitor](http://pcpartpicker.com/part/acer-monitor-umvh6aa003) | $129.99 @ Best Buy 
+ | | **Total**
+ | Prices include shipping, taxes, and discounts when available | $1297.38
+ | Generated by PCPartPicker 2014-10-20 17:46 EDT-0400 |
+
+Both fall nicely enough below my starting price range that I could build them as early as January and either path would be a huge upgrade; which setup would go best with my end-goal? I'm willing to spend an additional $5,000 on *upgrades* beyond the initial rig.
+
+Also thanks for all the help! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-20 18:47:17 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Ah, see that's where the "very little knowledge" part comes in; I know next to nothing about mobos. That was just referencing the CPU, which I intend to upgrade to something broadwell based for the final build (so I'm vaguely aware I need a Z97 chipset, and I need to be able to stuff in minimum 2 GPUs to SLI until Pascal saves us all(?)). I may also go with 1 wide center monitor and flank it with portraits so it'd be 4 monitors in the endgame.
+
+What little I'm aware of is just a result of working with stuff related to semiconductors. AFAIK my laptop with an i5-337U can handle my undergrad homework so higher numbers will do graduate level work. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Multi-Year Build Plan for Computational Work   Play </TITLE>
+<DATE> 2014-10-20 17:13:55 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> **What will you be doing with this PC? Be as specific as possible, and include specific games or programs you will be using.**
+
+Some computational chemistry work (i.e. black box calculations, light programming, using terminal to tell supercomputers what to do), some gaming, presentations, documents and a little image editing.
+
+* CPU centered programs: LaTeX (will utilize live document preview, possibly via EMACS), Python, GnuPlot and/or Origin, Avogadro (molecular modeling program, fairly lightweight), Mathematica, MATLAB.
+* GPU: GIMP, Tomb Raider, Portal, Skyrim, 5 monitors for multi-tasking (triple monitor NVIDIA Surround for gaming).
+
+**What is your maximum budget before rebates/shipping/taxes?** 
+
+* ~$1,500-$2,000 for initial build; capable
+* Add ~$5,000 for upgrades to reach final form; no-holds-barred, hit me with all the sexy future tech coming in the next couple years
+
+**When do you plan on building/buying the PC? Note: beyond a week or two from today means any build you receive will be out of date when you want to buy.** 
+
+* Initial, functional build: Mid-summer/fall 2015; OK to use current stuff if you have anything in mind.
+* End-date: ~Winter 2016 
+
+This means NVIDIA's new Maxwell microarchitecture will be settled and Pascal will be coming out; I'm willing to skimp on the initial setup to splurge for Pascal based components when they become available since it seems like that's going to be a huge improvement.
+
+**What, exactly, do you need included in the budget? (Tower/OS/monitor/keyboard/mouse/etc)** 
+
+* Tower
+* Monitors (included sketch at bottom).
+* Initial build GPU.
+
+**Which country (and state/province) will you be purchasing the parts in? If you're in US, do you have access to a Microcenter location?** 
+
+* US; A few possible places, most pertinent to computer parts: Chicago, IL; Berkeley/Pasadena, CA
+
+**If reusing any parts (including monitor(s)/keyboard/mouse/etc), what parts will you be reusing? Brands and models are appreciated.** 
+
+* None, fresh build.
+
+**Will you be overclocking? If yes, are you interested in overclocking right away, or down the line? CPU and/or GPU?** 
+
+* Down the line, *maybe*; may entertain possibility of 2 CPU slots on the mobo, but likely won't need since I'm aiming for an i7 4000 series. I'll have access to supercomputers for all the really heavy stuff.
+
+**Are there any specific features or items you want/need in the build? (ex: SSD, large amount of storage or a RAID setup, CUDA or OpenCL support, etc)**
+
+* SSD for OS, possibly 2, one for Windows and one for a Linux distro (not necessary unless cheap or dual-booting is made difficult by Windows 8+). OK with a hard drive for everything else.
+* Mobo capable of SLI.
+* May require a workstation GPU or one that can be "unlocked." But none of the programs are as intense as those engineers use.
+
+**Do you have any specific case preferences (Size like ITX/microATX/mid-tower/full-tower, styles, colors, window or not, LED lighting, etc), or a particular color theme preference for the components?**
+
+* Relatively minimalist, large tower would be nice; aesthetics fairly unimportant, just want airflow.
+* Water cooling seems more aesthetic, but I'll be running computations, not just gaming.
+
+**Do you need a copy of Windows 7 or 8.1 included in the budget? If you do need one included, do you have a preference for one or the other?**
+
+* No, but would like opinions on dual-booting Windows and Linux from one drive (I hear this has been made somewhat difficult due to BIOS changes).
+
+**Extra info or particulars:**
+
+I'd like to start off with two monitors (one for portrait), but end with 5; [I drew a sketch with arrangement, sizes, and resolution.] (http://i.imgur.com/BWFg84c.jpg?1) Idea is to use the main triple monitor for gaming (Not willing to use one super-ultrawide-curved screen, need to stay triple for easy windows snapping when doing work; willing to debezel), portrait for easier interaction with documents/talking to terminal, big TV for movies and for putting up plots or reference documents (hence the 4K).
+
+If anyone has any input on how easy workflow would be please chime in!
+
+Since I'm looking far into the future for the end-product and I've obviously outlined a lot of stuff with very little knowledge, I'm kinda just looking for a general direction to look in. Feel free to cherry-pick what to answer.
+
+Thanks for any advice you can give! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-20 03:23:59 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Link for the lazy] (http://symmetry.otterbein.edu/)
+
+Bonus: [point group tables] (http://www.webqc.org/symmetry.php)   [auto-reducer] (http://symmetry.jacobs-university.de/)
+
+This class was **really** fun when things weren't tedious. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-19 08:06:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> That's because it's in the [uncanny valley!] (http://en.m.wikipedia.org/wiki/Uncanny_valley#Theoretical_basis) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-12 18:09:27 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Once we had a visiting professor from Poland come to talk about his research; he had been invited by our materials science engineering department, so he gave the talk in their building. While talking about his polymer dendrites, he decided to let us in on a range of prospective uses for these ending with "adult toys."
+
+I was the only one who laughed, it seems material scientists are more mature than chemists. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-11 00:12:40 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> That sounds odd to me as well, do you have any examples? All the schools I've dug up data for list the average accepted score for each individually. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-10-10 09:51:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Passion and youthful navet. I want to teach and change the world with research and all that.
+
+A grad student salary is enough to feed me which is more than can be said of my time as an undergrad; money isn't a goal. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Bad Q GRE Score, High Math GPA, Does It Even Matter? </TITLE>
+<DATE> 2014-10-10 06:54:34 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> So I took the GRE today and did fairly poorly [159 V (81%), 157 Q (68%)], likely because I studied for all of 2 days and loathe basic statistics.
+
+While the verbal is past the point of mattering, the quantitative is only in the 60th percentile for chem majors and I'm applying to highly regarded PChem programs. However, I have a minor in math and a 3.9 GPA for that coursework; will being able to do real math offset the GRE score to adcoms or is there a sieve in place that I won't get through?
+
+I know the GRE is often insulted as a metric for graduate ability, but is it an auto-cutoff like GPA?
+
+Update for people from the future: I didn't retake it and had no issues getting accepted! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-09-23 05:07:47 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Err, I guess I didn't clarify, I meant the overall design; I've made enough practice exams to be familiar with ChemDraw. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-09-22 04:22:08 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> So you're the one that makes these!
+
+I just wanted to say that they're great, especially as a TA looking for easily digestible stuff to help students along. How do you go about making them? Is it just powerpoint or is there some kind of LaTeX for this? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-09-20 06:23:14 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> While I may not have the most authority on the matter, as I'm also a senior undergrad biting my nails over Ph.D. programs, at least I'm in the thick of the stress with you.
+
+You're going to have to come terms with knowing you most likely won't make it through the sieve for applications to most schools, as /u/radiatorcheese said. No matter how good the rest of your app is, places with a high volume of applicants have to do some kind of pre-screening and the easiest metric is a 3.0 GPA cutoff (official or unofficial). However, to the places that won't do that your research and teaching experience will be a huge boon to the adcoms, especially since you'll be applying to lesser-known schools where many students may not have any research at all (and apparently pubs are really rare)!
+
+However, at the risk of being rude, while a C+ in a couple classes seems somewhat dismissable (had a bad semester or absolutely despised the material in a class and you're not applying to do something related to it), having that in every class suggests you have trouble grasping the material or are unmotivated. I would think it will look very strange that you were a TA with that kind of record, and you may be looked at a bit skeptically (this is where your letters come into play).
+
+Try to go to a conference if you can and talk to some professors. Blow your GREs out of the water, get that paper published and you'll have some solid counterweights to the GPA. You won't be going to any big names like Berkeley or MIT, but I think you could find a program somewhere, if you *really* want to do chemistry. Maybe discuss doing a Ph.D. at your current institution with your professors. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-09-20 05:50:51 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> As some others have stated, an entire math *major* is a stretch, but the more you know, the better. Barebones, you'll need the calculus sequence. As part of your later coursework, you'll also need to know some differential equations (thermo PChem) and linear algebra (quantum PChem   inorganic); those will likely be covered in your classes, but stuff like symmetry will be way easier to understand with some mathematical understanding of things like group theory.
+
+In the mean time, you can relax and take your time on learning, you probably won't need any math for your organic sequence, and AChem is mostly just the same boring statistics from high school with the occasional atom (sorry if I offend anyone here), so you're looking at another 2 years to flesh out your mathematical prowess.
+
+Also, don't worry about your pre-calc score, I barely scraped a B in that class and thought I was terrible at math too; once I got into calc II I found out I not only could handle it, but it was fun! I added a math minor and have a 3.9 GPA on the required courses (humble-brag mitigated by admitting that I would still totally fail a pre-calc exam). Most of the stuff required for a second major would probably be terribly boring for a physical scientist. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-07-02 17:38:44 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> The city or upstate?
+
+Because upstate NY definitely has hardcore rednecks. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 17:06:54 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah you could keep the boots under your desk; I also keep a pair of stained paints in my desk so I can wear shorts to the lab when it's hot out. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 16:15:50 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah I'm familiar with all the force particles (except the Higgs, because I'm not cool enough).
+
+His explanation was very understandable, I figured it'd be something related to field theory. Quality link, thanks! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 16:07:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I wouldn't call it simple, this reaction has been giving us trouble for months, this is the first time this ever happened. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 16:05:43 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It got way more intense under the UV lamp and I could see it more clearly after shutting off the hood's light, so I figured it was fluorescence. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 06:31:06 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> More info on virtual vector bosons? I'm new to QM (see: took 2 undergrad classes and read some books) and haven't heard that term, and Google has stuff over my head. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 06:25:21 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [It's only $34 for a 75g tube.] (http://www.thomassci.com/Thomas-Brand/_/THOMAS-LUBRISEAL-STOPCOCK-GREASE)
+
+Treat yo' self. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 06:11:41 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> What about greasing the stopcock? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 06:10:27 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Good eye! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 06:08:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I got a bunch of worthless internet points for brown stuff once.
+
+I rarely get to see blue fluorescence so this was special. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 04:31:39 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Can confirm, am swimmer.
+
+I used to come home from practice, eat 90 lbs of food and crash from exhaustion at about 9pm. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 03:37:20 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Actually not until after this picture, then it made this really weird yellow gel-like emulsion which had to be filtered; it was the first time brine ever made an extraction harder. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 01:38:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Bonus picture post separation with more blue/yellow color scheme] (http://imgur.com/0CZm5Qq) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 01:35:02 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It's only dirty because we work so hard! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 01:31:48 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I feel so bad for you. We have some ground glass sep funnels but they just sit in a drawer.
+
+Edit: consulted Hooked on Phonics </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-30 01:31:04 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Subbing a CN for a hydroxyl, but a labmate of mine is doing a completely different reaction and she gets similar outcome! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Colorful Phase Separation </TITLE>
+<DATE> 2014-05-29 21:00:51 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-28 16:39:41 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It's possible the inner flask is meant to be for reaction and the outer flask is meant to be a cooling jacket, but those stems are insanely long.
+
+/u/CraigMacTG is probably right here; [here's a picture of a similar looking cruet,] (http://imgur.com/qki1yER) and [one of a 2-chamber cruet.] (http://imgur.com/iV4Bvze) Most likely their lovechild. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-28 07:06:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Not sure if you're still looking to do this 2 weeks later, but MIT's Open CourseWare series on linear algebra was phenomenal (better than the lectures at my school!), as was their multivariable calculus, I imagine their single variable/basic calculus would be just as good.
+
+http://ocw.mit.edu/courses/mathematics/ </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-28 04:21:38 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I just started Player Piano and haven't decided on the next; what made Galapagos your favorite? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-28 01:29:30 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I know I'm late to the party here, but Vonnegut's work is pretty damn good, though what I've read hasn't been quite as fantastical and far-future as Asimov, I'd highly recommend him!
+
+Cat's Cradle is probably my favorite book by him, but the many stories in "Welcome to Monkey House" are very good! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-28 01:04:40 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You're both right overall, and Heisenberg *is* attributed to that concept, along with Bohr; I think Heisenberg's original idea was that a waveform exists as a distribution of all states being simultaneously "true," until measured (as detailed in the wiki on the Copenhagen interpretation), which is what Schrdinger was calling absurd. Though I guess I was going off of what everyday people think of when they hear Schrdinger (the cat) and Heisenberg (momentum and time uncertainty). Nobody's wrong as far as the science is concerned, but you'd be right-er I suppose?
+
+Either way, don't feel bad; I wasn't really trying to call out anyone, just trying to shoehorn in QM info since it's all really cool stuff.
+
+Edit: lots of words added. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-28 00:43:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You were right!
+
+I gave references and some information in another comment if you were curious beyond the legitimacy of puns. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-28 00:40:07 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> As much as I like your pun, [Heisenberg is attributed to uncertainty,] (http://en.wikipedia.org/wiki/Uncertainty_principle) and [Schrdinger's cat] (http://en.wikipedia.org/wiki/Schrdinger%27s_cat) is mocking the idea of a [wave function existing in all states, then collapsing to an eigenstate upon observation.] (http://en.wikipedia.org/wiki/Copenhagen_interpretation) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-26 04:27:20 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> In case you're not annoyed by people replying yet, I figured I'd weigh in.
+
+I had multiple meetings with this with 8+ people with no issues at all, it worked perfectly fine whether I was on my tablet or laptop (though FYI the tablet version a bit limited). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-25 04:05:57 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> His Messenger Series lectures can also be found on YouTube! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-25 03:41:09 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yes, it's an assortment of stories about his life more or less; I can't say if you'd like it if you're not into that, but I wasn't sure if I'd like it until I read it though, and I did it in chunks like short stories (it also probably helped that I knew about him as a physicist before the book was recommended). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-24 23:51:57 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Nope, Kyle. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-24 20:26:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> "Surely You're Joking, Mr. Feynman"
+
+I approach my own curiosity differently and see that things don't have to follow some arbitrary strict rules when sharing information; it served as a basis for me creating an organization at my school where we informally discuss research results, I've learned a lot more since.
+
+Edit: seeing as quite a few people also liked this book, in case you all didn't know there's a "sequel" to it that's also pretty entertaining titled "What Do You Care What Other People Think?" </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-23 21:16:43 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> You should try that; ethics of cross-species mating sounds more exciting than any monotonous party banter.
+
+Keep your new friends away from your pets, though, </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-23 16:09:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I dunno, I think bank robberies, rampaging metal sharks, and biker gangs threatening to remove ears for a hat are at the very least not mundane. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-22 14:00:40 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> American here, "dry heat" means hot but not humid, humidity makes the heat a lot less bearable.
+
+Source: Florida </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-22 05:14:55 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> These are all really cool! Such an interesting idea.
+
+Have you ever discussed using these to advertise for chemistry majors? I'm an undergrad and if I'd seen stuff like this I probably would've become a chem major sooner. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-10 03:53:41 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I saw, it did, thanks!
+
+It looks kinda like granite, is it? I'm only in the 5.10 range so there'll probably be plenty to keep me busy. Is the bouldering natural rock too?
+
+As long as there's somewhere to change; do you know if there are showers? I'll probably be going back to work after and don't want to look like a coke addict.
+
+An unrelated question, do Ithaca's (outdoor) stores usually have sales on winter clothes in the summer? I may be coming back to Cornell for grad school and will probably be biking year-round so lots of exposure. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-10 02:42:19 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> My local gym has a test that's really basic (i.e. tie a figure 8) and they give training if you can't do that, is that how it works there?
+
+Is there a store/outfitter on campus that sells loose/brick chalk? I have a chalk sock. I'm in Florida so I'm used to heavy hand sweat; is it like that year round or does it dry out when summer ends?
+
+I've seen it called natural rock, but the site shows cinder blocks; what's actually going on? That's pretty cool how the routes work, though; what range of grades are usually kept taped?
+
+Also, is there a locker room there? I'm working in Baker and can't wear shorts there so I'd be bringing a change of clothes. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-10 02:23:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Do you guys sell the climbing card there? I only found semesterly climbing access paired with a full gym membership, but I don't even lift.
+
+Also, how does the belay test work? Is it just tying the knots and calling commands or is it more involved? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-05-10 02:17:52 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Thanks for the responses everyone!
+
+I'm being given a student card and I got a NetID, so I guess I'm effectively a student so that shouldn't be a problem. I've been climbing off and on for about 2 years but I'm not great (V4-   5.9/5.10, haven't climbed since January) and only in it for the fun, but I'd still be up for pms for pairups (my belay skills are on point; I could pull rope on a 5.15 as long as you're top-roping). I mainly boulder so I'd probably be hang dogging on anything over 5.9.
+
+I'm there with a program so if I were to snake away for a weekend I think it might have to be open to 13 other people with likely 0 climbing experience and no transportation (so I'll look into the outing club). My shoes smell horrible (yay, Evolv!) so I'll put them in a plastic bag or use this opportunity to buy new ones. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Questions About the Lindseth Climbing Wall </TITLE>
+<DATE> 2014-05-09 03:55:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> So I'm coming to Cornell for the summer and I'm a climber; how does the Lindseth wall operate?
+
+* Are the people there friendly enough that you can get a belayer by just showing up?
+* Is everyone skilled enough to not drop you while belaying?
+* Is the atmosphere "get good at climbing" or "have a good time climbing?"
+* Is there a long wait for routes to open up during the summer?
+
+
+~~Is it a BYOG kind of place or do they provide/rent out equipment?
+Most importantly, do they provide shoes? I do **not** want to put mine in my luggage.~~I googled.
+
+Bonus question: how long is the drive to the Gunks? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-04-29 17:35:49 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Now who's saying incriminating things? Haha.
+
+I suppose it's somewhat common in the US, at least within the realm of chemistry classes. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-04-29 17:30:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> OTC just means over the counter; we just stated that to show how cool it is that a simple mirror plane separates something you can buy at a grocery store and a [schedule II] (http://en.wikipedia.org/wiki/Convention_on_Psychotropic_Substances#Schedule_II) drug. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-04-29 17:08:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> This isn't data from a real reaction and there's no defined SM; we made it up for proof of concept linked to (what we thought was) a fun compound. As for the energy differences, we attribute those to sterics; compound B is the Z isomer, whereas compound A is E. 
+
+As for the actual concept of thermo vs. kinetic, the kinetic product is whatever forms fastest (i.e. has the lowest transition state (TS) energy: smallest G) and the thermodynamic product is whichever has the most stable end product (i.e. biggest change in G: largest |G|).
+
+[Here's an arbitrarily chosen graph showing the TS energy and final product.] (http://imgur.com/iKVG3dJ)
+
+So in our made up reaction, there are two pathways the compound can go through ([see original exam question] (http://imgur.com/BTUldyx)). One pathway has a lower TS, but a smaller |G|, so it happens quicker due to its lower energy barrier (the TS); the other has a higher TS, and requires more energy, but results in a more stable product (largest |G|), and is therefore the thermodynamic product (as determined by the |G|).
+
+Hope that helped! (Though you probably already understood everything past the first 2 sentences, that was a knee-jerk response to try to explain everything I guess.)
+
+Edit: Added [links.] (http://images.wikia.com/zelda/images/e/e9/Link_%28Four_Swords%29.png) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-04-29 02:36:24 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I (sorta) helped make that exam, so [I can.] (http://imgur.com/a/plrZV) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-04-09 15:34:36 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> ["A metal-free organicinorganic aqueous flow battery"] (http://www.nature.com/nature/journal/v505/n7482/full/nature12909.html)
+
+This is the Harvard paper about the batteries using quinones, you might've heard of it called a rhubarb battery.
+
+[Here's Harvard's news release on it.] (http://news.harvard.edu/gazette/story/2014/01/renewable-energy-breakthrough/) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Opinions on a Masters/Minor in Education and (Science) Education </TITLE>
+<DATE> 2014-03-25 18:18:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Educators of /r/AskAcademia, what are your opinions on studying education while(graduate minor)/after(M.S.) getting your Ph.D.? If you did, do you think it helps your students learn or was it just by virtue of working with many students over time? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Doing an REU and Going to That School for a Ph.D. </TITLE>
+<DATE> 2014-03-25 18:07:43 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I was accepted to an REU program for this summer and would really like to do my Ph.D. with them. The nature of the application I listed groups I wanted to work with and I was picked for my #1 choice; could this be seen as them willing to accept me for graduate studies? It seems like a 3 month funded program vs. a 4-5 year Ph.D. is a bit of a jump.
+
+Has anyone here done an REU and been accepted/denied by that school for their Ph.D.? What was your experience? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-23 03:24:36 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [I found her surfboard;] (http://www.reddit.com/r/pics/comments/213ebc/he_found_this_washed_up_shoreyup_that_is_two_bite/) the design really bites. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-22 19:54:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Not OP, but I'm coming to Cornell for a summer research program too; I saw something about community bikes happening at Cornell, is that still going on? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-19 23:16:28 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Absolutely this.
+
+Email the graduate students of groups you are interested in for graduate study and ask them what they think of the group. If you've already been accepted and are going on visitations, seek out the disgruntled students that they aren't putting on display and ask them their opinions.
+
+Also, don't bad mouth your program when at other universities, it's unprofessional and won't be well received, not to mention you may be insulting someone who is friends with people in whatever program you're hoping to get into. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-14 20:52:59 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm not a business man, but back in high school my algebra teacher told me I was stupid and would never answer any questions I had, this lead to me struggling later in precalculus since I'd never properly learned algebra and subsequently avoided calculus since I was "too stupid for it." I was scared as hell to take it in college.
+
+I'm in my 3rd year of college now and I'm minoring in mathematics and have a 3.9 GPA in it; everything is easy, the calculus sequence, diffEQ, and linear algebra were all a breeze.
+
+I think this applies to everything, not just science; it's all about perspective and perseverance, just because you can't do something in high school doesn't mean you're not smart enough. There is more than one way to do/think about things and some ways work better than others, but early experiences may try to force one way or another on you. On some level it may just be buckling down and actually doing the work, but it might be that things aren't being though of in the right way.
+
+It may also be worth noting I got a B- in general chemistry, and now I'm going to be spending my summer doing research at Cornell; don't give up on something if it interests you! Give it your best and that's all you can ask of yourself. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-14 20:07:23 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Basic math.
+
+I'm a chemistry student minoring in math and physics, most laymen seem to think that this means I can rattle off obscure multiplications and do basic algebra in my head rapidly; I still count on my fingers for the elementary level stuff and have to sit down and write out precalculus problems.
+
+Just because you're bad at high school math doesn't mean you're not smart or can't do real mathematics! There are so many more ways to think about things than what they force-feed you in compulsory school. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-14 16:29:54 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Good morning Dr. Omberg,
+
+I have a more general question about what it's like doing research in a national lab as compared to within a university. I've heard places like Sandia and Oak Ridge can get bogged down with bureaucratic nonsense and the scientists can sometimes go *days* without anything new to do; what has your experience been like? Is not having to jockey for funding worth the red tape?
+
+Thanks! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-12 06:07:32 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm using Ultra 12.0.2.1076. It might be because it's ultra, but I'm sure it's not exactly computationally intensive to apply a naming algorithm.
+
+I have a friend who uses 13 on his mac and windows computers and he's also able to name, it might be under a different section. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-12 04:45:40 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Select your compound, right click and go to analysis and select name.
+
+It even updates as you change the structure, it's really cool! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-12 02:37:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm sure there are *torrents* of other ways to get it. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-11 22:29:30 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Good luck! I loved OChem (obviously) so much that I'm TA'ing it.
+
+Just a few tips, since everyone seems so terrified of it:
+
+* learn to see the patterns; trying to memorize only makes it harder than it needs to be.
+
+* carbon is not pentavalent.
+
+* get a modeling kit if you can't/until you're able to think in 3D.
+
+* get ChemDraw to name things for you. IUPAC is the worst. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-11 22:12:21 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It's [5,6-dioxo-1,4,5,6-tetrahydropyrazine-2,3-dicarbonitrile](http://www.chemspider.com/Chemical-Structure.517636.html).
+
+I scraped the carpet out from inside my RBF and it was right underneath! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> I Synthesized a Hardwood Floor </TITLE>
+<DATE> 2014-03-11 21:08:49 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-02 17:33:11 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> No, it's free, but you should contact the professor prior.
+
+Graduate courses usually cost much more than an undergrad class if you want them on your transcript. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-03-02 17:23:33 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It seems like graduate courses are much more reading and independent work than an undergrad course. This is pretty ubiquitous among the science departments here and isn't limited to chemistry.
+
+My university offers a few courses that are split between grad and undergrad; I'm in the biochem class right now and it's totally manageable. We also have a 2 credit polymer course which I've heard very good things about, the students learn a lot and it doesn't feel like a burden at all.
+
+You may want to try *auditing* it to give it a test run; I've done that with all my grad classes (they make us pay 3x the price for them, and they don't accept ramen noodles as payment) and it's saved me from committing myself to some courses that turned out to be quite boring review of what I already knew. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-02-28 19:08:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> How are the views? Some of our windows here literally face brick walls.
+
+I actually put down the Dichtel group as my 2nd choice; does he seem like he'd be open to a visiting undergrad poking around his lab (supervised, of course)? I'm most interested in Dr. Abrua for my grad P.I. but I wanted to see some other labs while I'm there. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-02-28 07:06:27 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I was invited to Dr. Abrua's group; do you know him? I actually made a thread here asking about Cornell's chem department a couple days ago after I found out. What's the Baker Lab complex like?
+
+Definitely stay if you can, summer research was so much more involved without the distraction of classes. There are probably internal scholarships that will fund it too! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-02-28 06:59:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Congratulations! The Cornell program is a MRSEC too; I actually applied to Northwestern's but Cornell only gave me 3 days to respond so I committed to them since I'm really interested in their entire school.
+
+They've got some really cool stuff going on there, you should definitely accept! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-02-28 05:14:55 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Definitely go for the REU! I'm a 3rd year undergrad and I spent this past summer in my own lab and will be spending this summer at Cornell with an REU program instead of staying here again, my PI actually encouraged it.
+
+It's a great way to network and see where you'd like to go for graduate school; an undergrad from my lab a few years back ended up doing his PhD in a lab at Berkeley that he REU'd at over a summer, they invited him to apply.
+
+Also, it isn't the MRSEC REU, is it? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-02-25 23:34:14 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Yeah, and he seems fairly prominent in the field (though it seems like it's a requirement that no Cornell professor can have their website updated past 2011); I've been looking into his work with Dichtel, it's nice to see all the communication among the chemistry department there. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Any Cornellians Care to Comment? </TITLE>
+<DATE> 2014-02-25 06:28:36 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I just got accepted to an REU program at Cornell for this summer; needless to say I'm really excited!
+
+I figure some of you guys are/were likely students there and I was wondering if I could get your opinions/experiences/juicy gossip about the university's chemistry department and the campus/town in general.
+
+I've been invited to Dr. Abrua's group so if anyone has any experience working with him or his students please weigh in! (Please confirm my suspicion that he's as affable as his page makes him seem).
+
+PMs are welcome. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-02-22 16:59:19 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Nice to see something from my home institution!
+
+I'll have to look into auditing the class. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-02-21 20:49:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I remember in freshman chemistry doing some report on the lattices of graphite and diamond, my conclusion was that graphite was more stable and you should buy a woman a lead pencil (instead of a diamond ring) to show her your love was forever. Either the TA didn't read it or I just wasn't funny.
+
+I also remember doing a proof for a physics problem and halfway through I gave up and wrote "A solution exists, finding it is left as an exercise to the grader." Full credit. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-02-20 18:33:49 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> This is really gorgeous!
+
+I may be moving to Evanston soon; would you mind sharing some of your favorite places in the greater Chicagoland area? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-02-04 03:27:41 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Your gifs are awesome! I've been seeing them since last year and I wondered who made them.
+
+If I weren't a poor undergrad myself I'd donate; if you're willing to share information for free I was curious about what program you used for these.
+
+Also, since you're a physics student, what programs you use for modeling in general? I'm a chemist slowly turning to the dark side, but don't know the path of the sith. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> Volunteering in a Lab While Teaching in a Middle/High School </TITLE>
+<DATE> 2014-01-18 17:56:23 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm currently a third year undergrad considering doing [Teach for America] (http://www.teachforamerica.org/) before going to graduate school.
+
+Many of my top picks for grad school allow deferment if someone who's been accepted decides to do this program, but I'd like to keep my hands dirty to some degree while teaching; does anyone have experience volunteering in a lab part time or over summers while teaching or doing something else? </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2014-01-18 17:43:21 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Asimov has some chemistry in his works, probably the most interesting of which is [thiotimoline] (http://en.wikipedia.org/wiki/Thiotimoline), a strained organic molecule that allows time travel. Asimov is really good at integrating science into his works, you can find a fair amount of math too, if that's your thing.
+
+As said already, Vonnegut has chemistry in Cat's Cradle; Vonnegut actually studied chemistry at Cornell for a while and his brother was an atmospheric chemist, so his other books may have trace amounts of chemistry (but he hated studying it). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-12-29 21:53:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> For what it's worth I know a 4th year ChemE who will be going to grad school for theoretical chemistry; just because your degree isn't in standard chem doesn't mean you're forced into engineering. Ask around and see if you can get a position in a chemistry lab at your current school.
+
+Look into REUs instead of internships if you're really willing to dedicate yourself to it.
+
+
+Also, this is probably lack of experience with you guys, but regular ChemEs don't seem to be the type who are really super interested in chemistry to the point they'll self-study for fun; you should really consider chemistry. (Bit of a warning, I'm pretty sure ChemEs make a lot more money, if that's a big motive for you.) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-12-07 08:29:46 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Phenylacetaldehyde] (http://en.wikipedia.org/wiki/Phenylacetaldehyde)
+
+I was a psych major taking a BS 1 credit "plants   you" course, the professor talked about this molecule's role in the allure of chocolate and roses; it worked, and ended up being the nucleation site for my interest in chemistry! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-12-07 04:46:45 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Fourier information, that's not true. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-12-07 04:28:19 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> |memorize
+
+As a TA, I wish you guys would stop doing this; you're making OChem much harder than it needs to be. It's all about pattern recognition! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-12-04 17:18:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [This video] (http://www.youtube.com/watch?v=zPqEEZa2Gis) has an explanation of what causes it to fall slowly, as a bonus, there's also a supercooled magnet going around a mobius strip of other magnets by quantum levitation! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-12-03 21:08:35 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> The most "painful" thing I've ever smelled was 25% ammonia.
+
+Not paying attention, leaned over the bottle in the fume hood and took a deep breath through my nose. Felt like fire.
+
+I jerked my head out, hit it on the sash and just stood there with my mouth open, ears ringing, and eyes watering. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-11-06 04:00:26 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Animal Farm.
+
+I was in 7th grade and kept getting kicked out of my gifted class. The teacher sent me out to the hallway one day as usual, but came out after a few moments, handed me Animal Farm, and said something to the effect of:
+
+ "You're a troublemaker, I think you'd like Orwell."
+
+I still have that copy. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-10-13 05:25:23 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> We're starting the process of reactivating the chapter at my university. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-08-15 20:42:21 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> It's really short, and [free in the iBooks store.] (https://itunes.apple.com/us/book/metamorphosis/id395543620?mt=11)
+
+But, from what I can remember of my teen-angst-filled essay way back in high school English, it's something of a diatribe of how the modern working man is equitable to a bug, doing things he hates for the sake of making money; once he can't fill the capacity of money maker for the family (likened to a company) they turned on him,
+
+because that's what the man does, man.
+
+[Kafka was a socialist/anarchist.] (http://en.wikipedia.org/wiki/Franz_Kafka#Political_views)
+
+Edit: [Links] (http://images.wikia.com/zelda/images/e/e9/Link_%28Four_Swords%29.png) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> A girl from my university painted this flask for me (x-post r/breakingbad) </TITLE>
+<DATE> 2013-08-11 17:34:50 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE> A friend of mine is an artist and she painted this flask for me </TITLE>
+<DATE> 2013-08-11 17:16:36 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-08-10 00:53:45 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [Finally!] (http://i1.ytimg.com/vi/Gr0SvQUVxSs/mqdefault.jpg) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-08-10 00:29:09 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Casein coagulation in response to acid.
+
+Edit: [Here's a short video talking about protein denaturing and coagulation] (http://highered.mcgraw-hill.com/sites/0072943696/student_view0/chapter2/animation__protein_denaturation.html) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-08-08 20:36:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I had to quit when he called a bell curve fractal. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-08-01 19:16:49 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Definitely a drug; looks to be a tryptamine derivative.
+
+Edit: [Ibogaine] (http://en.wikipedia.org/wiki/Ibogaine) </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-22 17:40:59 </DATE>
+<INFO> reddit post </INFO>
+<TEXT>  It reeks of elitism and you come off as a jerk.
+
+Looks like you had the answer just 3 lines up. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-18 18:42:28 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> If you're that nervous, get Dr. David Klein's "Organic Chemistry as a Second Language."
+
+Its slow pace bored me personally, but it certainly does drill *concepts* into your head; this class is not about memorization, it's about seeing patterns and applying them.
+
+It has the stigma of "hard" from "lol I wanna be a doctor because doctor" premeds; this seems to be the case with many "hard" things, learning is much easier if you focus on the material more than the hearsay about it.
+
+Edit: grammar </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-18 06:36:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> That's a misnomer, it's a copolymer, which basically means it's in the structure as a repeating unit.
+
+Not to suggest OP should go putting it in his mouth though, since, in addition to the whole wearing down your enamel bit, it does in fact leave behind a residue likely consisting of some stuff [that could make your kidneys mad at you.] (http://en.wikipedia.org/wiki/Melamine#Chronic_toxicity)
+
+tl;dr: as a general rule, don't put cleaning products in your mouth. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-18 01:32:56 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Ah, New River Gorge was the first place I ever climbed outside of gyms!
+Best of luck running from the rat race. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-16 17:11:38 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> At my school in the US the chemistry major requires the calculus sequence, and diffEQ is officially recommended; I'd suggest some linear algebra too, just to be safe, and if you're weird and like math (like me) get some PDE and complex analysis too.
+
+That didn't answer your question, just letting you know what you're in for.
+
+
+I didn't take my school's module, but I'd guess, broadly, you'll be doing "precalc," some light SV calc, and a bit of algebra and trigonometry. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-11 21:14:15 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> As someone who switched from biochem to chem (specifically protein interactions/genetics to organic electronics), I can tell you I certainly don't regret it.
+Pursue your passions, half the time "hard" classes are only that way because of the stigma they carry by word of mouth.
+
+You will almost certainly stand a better chance having taken more relevant coursework. You're not applying to med school, GPA is not the top determining factor. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-05 04:04:41 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Dr. David Klein's "Organic Chemistry as a Second Language" is very good, he also has a full book that my class, and the class I'm TAing this fall use.
+
+The problems dispersed throughout the chapters are often too slowly paced, which is good for most organic students, since it drills the concepts into your head.
+
+As a rule of thumb in OChem, do **not** memorize, *understand*.
+
+Edit:
+[UIUC](http://www.chem.uiuc.edu/weborganic/organictutorials.htm) has a great study program too. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-04 05:48:54 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I think you're misinterpreting what OP means.
+(S)he wants to contact the author for advice since it isn't working in this case, not claim fraud. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-03 05:11:50 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Depends on the nature of the courses, consider pre-studying some of those classes over the summer, especially PChem if you're not so hot with math. Contact some of the professors and ask to see the syllabus and tentative course load. I hear the first grad OChem course is about 1/2 undergrad review, at least at my school.
+
+This past semester I took: Honor's OChem II and lab, MV calc, DiffEQ, Physics I and lab, along with ~10 hrs/wk in a research lab, leadership in student ACS, and tutored some friends in OChem. I won't call it easy, but it wasn't as hard as other people thought it would be, and I definitely wouldn't consider myself exceptional; I had a reasonable amount of free time despite MV calc being more work than it was supposed to be and having no experience with physics prior (and I think kinematics is sleep inducing). </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-06-03 04:55:37 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'd never taken calculus before I got to college; I was actually afraid to take it. I added a math minor after calc 2 and did just fine taking calc 3 and diffEQ at the same time; challenge yourself, you'd be surprised what you might find out!
+
+As for prep, iamnotazombie44 is correct, you don't really get to use it until later in chemistry, however, you should see a fair amount of it in your physics classes early on. Consider going above and beyond and taking linear algebra, it's used a TON in my QM class. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-05-30 02:35:29 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I've done all of those but linear, which I'll take in the fall; my school names things differently, linear and diffEQ are separate courses (diffEQ is actually 2 courses), and calc 3 is MV calc.
+
+In my experience, calc 2 was so much fun it made me declare a mathematics minor.
+
+Calc 3 (multivariable) was said to be a "reward for getting through calc 2." Maybe it was because the math department here is bleeding money, but we had an over the top course load, the course admin didn't seem to understand what constitutes "too much work," the material is fairly easy to grasp if you can conceptualize everything and imagine the graphs. Get cozy with integrations.
+
+DiffEQ was...boring, despite having a very smart and funny professor, but that's the nature of the course, it was far easier than calc 2, I had it the same semester as MV calc, and it took significantly less time. It had some degree of memorization, which always sucks, but wasn't too bad. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-05-29 19:23:50 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I'm about to put in for a physics BA myself, and I'm also a second (rising into third) year chemistry undergraduate, so I can't offer too much advice on my own experience.
+
+I had declared a math minor and adding a physics degree makes that minor more applicable, going into courses already knowing the math from an actual mathematics department course is hugely beneficial.
+
+I do know a girl who decided to add physics as a second major, the advisors didn't actually file her application so that caused a slew of difficulties (but my university is known for trying to push people out to keep the 4 year graduation rate looking pretty in the statistics).
+
+She said to file for it as early as possible, and make sure that the administration gets it filed.
+
+As far as coursework, she told me there was tons of overlap and having both actually made classes somewhat easier. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-05-28 11:12:00 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> [MIT OCW](http://ocw.mit.edu/courses/find-by-topic/)
+Near everything you could ever need; the scholar courses are particularly well done.
+Happy learning! </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-05-21 00:48:08 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Bit of a warning, I did this for a class of first graders a few months ago, it smells bad, not like chemical bad, like dilute vomit bad; it may have been the kind I used, though you should still try it at home if you're doing this for a demonstration. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-05-20 15:01:34 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> +1 I work in these. (So that's really good news for me!)
+
+In addition to being ridiculously cool on the chemical front, they have tons of applications; Heliatek wants to put OPVs in glass panes; someday, your home could be powered by its windows.
+
+There's still loads to be done, the aforementioned company has the world record for PCE and it's only 12%. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-05-17 14:45:58 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Anyone here ever run a column on a fluorescent compound?
+
+As annoying as the stains are working with them, they look like something akin to the northern lights in flash chromatography. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-05-16 04:45:12 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> Fiancepeas is right.
+Chemistry major weed outs vary by institution, I believe at my school it's instrumental analysis. OChem is the typical premed weed-out but it does trip up some chemists; Dr. David Klein's books are phenomenal for this class and I recommend it to people I don't have time to tutor.
+
+I'm in a QM and spec (PChem 2) course now and the nature of the course is so unorthodox the professor is having us write our own exams (but there are only 7 of us). If you took AP chem you should be able to handle the gen chems, maybe skip the first.
+
+I actually started off in neurogenetics lab doing protein purifications my freshman year, the project stalled and I went to a physical organic lab. For both labs I just emailed the PhD in charge and said I was interested in their research and wanted to know if they had any room for an undergrad; you may or may not be asked to interview, they won't expect you to know their stuff in and out (especially early on), but it'd be safe to glance over a couple publications to get an idea.
+
+Professors have different expectations and quirks, there's no real finite science to getting a position; just get an idea of what you're interested in and ask about it, some will want you to have course experience, some won't, but typically starting early gets you some wiggle room on expectations since you have potential to stay on for all 4 years. </TEXT>
+</WRITING>
+<WRITING>
+<TITLE>   </TITLE>
+<DATE> 2013-05-15 13:45:13 </DATE>
+<INFO> reddit post </INFO>
+<TEXT> I started off as an English and Psychology double major just drifting through taking whatever I felt like, but always found chemistry interesting; my first semester I took general chem 1 and got a B-, two short years later and I'm about a month away from authorship on an upcoming publication, president of the chemistry club, and my retiring professor is offering me a job tutoring OChem and calculus for him at his new business (plus a few other accolades but I'm not trying to be a braggart, just make a point).
+
+My advice would be don't get discouraged by "weed-out" courses; if you stumble, pick yourself up and keep going, you never know what you might accomplish. Don't stray from the "enhanced" or "honors" designated courses; in my experience, these classes are easier due to smaller size and more enthusiastic professors.
+
+Also, don't think that just because you like it on paper you'll like it in lab (and start research ASAP!); bench chemistry can be extremely frustrating and arduous, but, if you really love it you'll just find yourself keeping at it. </TEXT>
+</WRITING>
+</INDIVIDUAL>
